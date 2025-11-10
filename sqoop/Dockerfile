@@ -20,6 +20,11 @@ RUN wget --no-check-certificate https://repo1.maven.org/maven2/mysql/mysql-conne
     cp mysql-connector-java-8.0.28.jar ${SQOOP_HOME}/lib/ && \
     rm mysql-connector-java-8.0.28.jar
 
+# Download commons-lang library (required for Sqoop)
+RUN wget --no-check-certificate https://repo1.maven.org/maven2/commons-lang/commons-lang/2.6/commons-lang-2.6.jar && \
+    cp commons-lang-2.6.jar ${SQOOP_HOME}/lib/ && \
+    rm commons-lang-2.6.jar
+
 ENV PATH=$PATH:${SQOOP_HOME}/bin
 ENV HADOOP_COMMON_HOME=/opt/hadoop-3.2.1
 ENV HADOOP_MAPRED_HOME=/opt/hadoop-3.2.1
