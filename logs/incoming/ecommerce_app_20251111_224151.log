@@ -1,0 +1,1000 @@
+2025-11-12 22:38:14.602 [INFO] [ShippingService] Shipping label generated for transaction #10230 to Europe
+2025-11-12 21:20:05.192 [WARN] [ShippingService] Unusual transaction pattern detected for payment method: Credit Card
+2025-11-11 23:28:47.750 [INFO] [NotificationService] Order confirmation sent for transaction #10229
+2025-11-12 20:32:54.129 [INFO] [InventoryService] Transaction #10203 completed successfully - Total: $52.00
+2025-11-12 06:04:18.803 [INFO] [ShippingService] Stock updated for product 'Apple TV 4K': -2 units
+2025-11-12 19:31:35.402 [INFO] [OrderService] Order confirmation sent for transaction #10233
+2025-11-12 21:30:03.380 [INFO] [OrderService] Payment authorized for transaction #10238: $32.97 via Credit Card
+2025-11-12 02:38:31.634 [INFO] [TransactionService] Inventory check passed for 'Nike Tempo Running Shorts' in category Clothing
+2025-11-12 20:06:27.118 [INFO] [TransactionService] Shipping label generated for transaction #10225 to Asia
+2025-11-12 06:20:33.037 [INFO] [TransactionService] Shipping label generated for transaction #10170 to Europe
+2025-11-12 17:10:12.535 [INFO] [InventoryService] Processing order #10198 - GoPro HERO9 Black x1
+2025-11-12 06:20:50.152 [INFO] [TransactionService] Inventory check passed for 'Canon EOS Rebel T7i DSLR Camera' in category Electronics
+2025-11-12 12:11:24.325 [INFO] [OrderService] Order confirmation sent for transaction #10170
+2025-11-12 15:11:58.960 [INFO] [NotificationService] Stock updated for product 'The Girl with the Dragon Tattoo by Stieg Larsson': -2 units
+2025-11-12 13:52:40.566 [INFO] [TransactionService] Order confirmation sent for transaction #10202
+2025-11-12 05:17:54.029 [INFO] [ShippingService] Order confirmation sent for transaction #10212
+2025-11-12 02:59:01.804 [ERROR] [PaymentService] Shipping address validation failed for transaction #10176: Invalid postal code
+2025-11-12 06:52:59.689 [INFO] [NotificationService] Shipping label generated for transaction #10211 to North America
+2025-11-12 07:27:41.557 [WARN] [TransactionService] Product 'iRobot Braava Jet M6' approaching reorder point in Europe
+2025-11-12 13:22:01.168 [WARN] [PaymentService] Unusual transaction pattern detected for payment method: PayPal
+2025-11-12 18:45:12.845 [INFO] [InventoryService] Shipping label generated for transaction #10196 to North America
+2025-11-12 03:03:15.105 [WARN] [OrderService] Payment processing delay for transaction #10181: 2 seconds
+2025-11-12 07:53:31.698 [INFO] [TransactionService] Inventory check passed for 'First Aid Beauty Ultra Repair Cream' in category Beauty Products
+2025-11-12 07:43:41.414 [INFO] [PaymentService] Inventory check passed for 'The Catcher in the Rye by J.D. Salinger' in category Books
+2025-11-12 08:17:59.079 [INFO] [OrderService] Transaction #10182 completed successfully - Total: $399.99
+2025-11-12 10:51:56.974 [WARN] [ShippingService] Unusual transaction pattern detected for payment method: Credit Card
+2025-11-12 21:10:16.833 [INFO] [ShippingService] Transaction #10191 completed successfully - Total: $18.00
+2025-11-12 17:42:49.853 [INFO] [ShippingService] Inventory check passed for 'L'Occitane Shea Butter Hand Cream' in category Beauty Products
+2025-11-12 20:18:11.263 [INFO] [TransactionService] Payment authorized for transaction #10190: $32.97 via Credit Card
+2025-11-12 03:24:45.948 [WARN] [NotificationService] Payment processing delay for transaction #10214: 5 seconds
+2025-11-12 16:35:19.441 [INFO] [InventoryService] Inventory check passed for 'The Silent Patient by Alex Michaelides' in category Books
+2025-11-12 01:52:52.707 [INFO] [OrderService] Processing order #10222 - Garmin Forerunner 945 x1
+2025-11-12 14:00:28.010 [INFO] [TransactionService] Order confirmation sent for transaction #10240
+2025-11-12 14:17:34.307 [INFO] [OrderService] Inventory check passed for 'Caudalie Vinoperfect Radiance Serum' in category Beauty Products
+2025-11-12 15:40:41.662 [INFO] [ShippingService] Inventory check passed for 'Yeti Tundra Haul Portable Wheeled Cooler' in category Sports
+2025-11-12 19:08:48.049 [INFO] [InventoryService] Transaction #10207 completed successfully - Total: $196.00
+2025-11-12 12:59:07.218 [WARN] [NotificationService] Payment processing delay for transaction #10200: 4 seconds
+2025-11-11 23:16:58.044 [ERROR] [OrderService] Failed to send order confirmation for transaction #10208: SMTP error
+2025-11-12 14:02:41.855 [INFO] [OrderService] Transaction #10220 completed successfully - Total: $25.98
+2025-11-12 08:46:58.919 [INFO] [OrderService] Payment authorized for transaction #10188: $398.00 via PayPal
+2025-11-12 15:24:06.889 [INFO] [InventoryService] Order confirmation sent for transaction #10238
+2025-11-12 07:00:21.375 [INFO] [ShippingService] Inventory check passed for 'Polar Vantage V2' in category Sports
+2025-11-12 08:30:32.522 [INFO] [InventoryService] Transaction #10177 completed successfully - Total: $59.60
+2025-11-12 21:13:14.458 [INFO] [ShippingService] Inventory check passed for 'Dyson V8 Absolute' in category Home Appliances
+2025-11-12 17:04:06.151 [WARN] [TransactionService] Low stock alert for product 'Fitbit Luxe': 3 units remaining
+2025-11-12 19:00:31.615 [INFO] [TransactionService] Stock updated for product 'Caudalie Vinoperfect Radiance Serum': -1 units
+2025-11-12 03:22:53.272 [INFO] [PaymentService] Inventory check passed for 'Levi's 511 Slim Fit Jeans' in category Clothing
+2025-11-12 05:07:49.869 [INFO] [OrderService] Payment authorized for transaction #10178: $35.97 via Credit Card
+2025-11-12 06:55:35.777 [INFO] [InventoryService] Processing order #10240 - Yeti Rambler 20 oz Tumbler x2
+2025-11-12 07:48:42.551 [ERROR] [NotificationService] Failed to send order confirmation for transaction #10227: SMTP error
+2025-11-12 22:32:06.602 [INFO] [OrderService] Transaction #10177 completed successfully - Total: $59.60
+2025-11-12 22:03:15.275 [INFO] [ShippingService] Stock updated for product 'Glossier Cloud Paint': -1 units
+2025-11-12 18:37:17.803 [INFO] [ShippingService] Shipping label generated for transaction #10227 to Europe
+2025-11-12 14:44:54.118 [INFO] [TransactionService] Order confirmation sent for transaction #10236
+2025-11-12 17:56:44.625 [INFO] [OrderService] Order confirmation sent for transaction #10236
+2025-11-12 22:10:51.122 [INFO] [TransactionService] Shipping label generated for transaction #10225 to Asia
+2025-11-12 10:05:55.331 [INFO] [NotificationService] Inventory check passed for 'Nespresso Vertuo Next Coffee and Espresso Maker' in category Home Appliances
+2025-11-12 13:56:44.467 [INFO] [InventoryService] Inventory check passed for 'Glossier Cloud Paint' in category Beauty Products
+2025-11-12 16:57:30.766 [INFO] [InventoryService] Processing order #10181 - Google Pixelbook Go x1
+2025-11-12 01:28:56.759 [INFO] [NotificationService] Payment authorized for transaction #10200: $99.95 via PayPal
+2025-11-12 14:29:32.062 [INFO] [TransactionService] Shipping label generated for transaction #10171 to Asia
+2025-11-12 00:50:46.368 [INFO] [TransactionService] Order confirmation sent for transaction #10238
+2025-11-12 20:37:01.589 [INFO] [TransactionService] Stock updated for product 'Sonos Beam Soundbar': -1 units
+2025-11-12 11:14:43.048 [WARN] [InventoryService] Payment processing delay for transaction #10236: 2 seconds
+2025-11-12 21:00:32.520 [INFO] [ShippingService] Processing order #10213 - Uniqlo Airism Seamless Boxer Briefs x4
+2025-11-12 14:30:21.648 [INFO] [PaymentService] Payment authorized for transaction #10222: $599.99 via Credit Card
+2025-11-12 15:47:59.560 [INFO] [PaymentService] Order confirmation sent for transaction #10191
+2025-11-12 16:17:37.467 [INFO] [PaymentService] Stock updated for product 'The Ordinary Caffeine Solution 5% + EGCG': -1 units
+2025-11-12 11:31:39.110 [INFO] [InventoryService] Inventory check passed for 'Samsung Odyssey G7 Gaming Monitor' in category Electronics
+2025-11-12 22:31:13.235 [INFO] [TransactionService] Transaction #10211 completed successfully - Total: $749.99
+2025-11-12 12:25:23.322 [INFO] [OrderService] Shipping label generated for transaction #10176 to Europe
+2025-11-12 09:02:52.401 [INFO] [OrderService] Order confirmation sent for transaction #10192
+2025-11-12 20:00:46.008 [INFO] [NotificationService] Inventory check passed for 'Adidas Originals Trefoil Hoodie' in category Clothing
+2025-11-12 13:20:35.231 [INFO] [ShippingService] Transaction #10214 completed successfully - Total: $32.97
+2025-11-12 09:28:40.699 [INFO] [NotificationService] Payment authorized for transaction #10188: $398.00 via PayPal
+2025-11-12 21:32:40.242 [INFO] [NotificationService] Stock updated for product 'Dune by Frank Herbert': -2 units
+2025-11-12 13:12:03.696 [WARN] [TransactionService] High transaction volume detected in North America: 151 orders/minute
+2025-11-12 10:34:59.636 [INFO] [ShippingService] Transaction #10238 completed successfully - Total: $32.97
+2025-11-12 12:32:47.096 [INFO] [TransactionService] Stock updated for product 'The Goldfinch by Donna Tartt': -2 units
+2025-11-12 17:02:04.128 [INFO] [InventoryService] Payment authorized for transaction #10195: $359.98 via Debit Card
+2025-11-12 13:03:04.701 [INFO] [InventoryService] Processing order #10173 - Paula's Choice Skin Perfecting 2% BHA Liquid Exfoliant x1
+2025-11-12 12:39:01.868 [WARN] [NotificationService] High transaction volume detected in North America: 230 orders/minute
+2025-11-12 16:48:46.556 [INFO] [PaymentService] Processing order #10228 - Fitbit Luxe x2
+2025-11-12 02:35:55.613 [INFO] [TransactionService] Order confirmation sent for transaction #10207
+2025-11-11 23:54:45.801 [ERROR] [NotificationService] Payment declined for transaction #10169: Insufficient funds
+2025-11-12 12:15:47.752 [INFO] [ShippingService] Shipping label generated for transaction #10196 to North America
+2025-11-12 00:53:56.372 [INFO] [NotificationService] Shipping label generated for transaction #10179 to Europe
+2025-11-12 12:55:05.028 [INFO] [NotificationService] Shipping label generated for transaction #10199 to North America
+2025-11-12 14:46:00.342 [INFO] [NotificationService] Inventory check passed for 'Crock-Pot 6-Quart Slow Cooker' in category Home Appliances
+2025-11-12 12:07:07.353 [ERROR] [InventoryService] Failed to send order confirmation for transaction #10217: SMTP error
+2025-11-12 18:50:30.975 [WARN] [NotificationService] Product 'Canon EOS Rebel T7i DSLR Camera' approaching reorder point in North America
+2025-11-12 06:51:23.971 [INFO] [NotificationService] Stock updated for product 'Tom Ford Black Orchid Perfume': -1 units
+2025-11-12 04:47:57.430 [INFO] [NotificationService] Stock updated for product 'Adidas Ultraboost Running Shoes': -2 units
+2025-11-12 12:49:51.655 [INFO] [InventoryService] Transaction #10188 completed successfully - Total: $398.00
+2025-11-12 05:15:30.313 [INFO] [TransactionService] Shipping label generated for transaction #10197 to Europe
+2025-11-12 11:02:04.745 [INFO] [NotificationService] Processing order #10230 - Anova Precision Oven x1
+2025-11-12 11:12:00.632 [INFO] [NotificationService] Transaction #10172 completed successfully - Total: $19.98
+2025-11-12 20:10:03.574 [INFO] [TransactionService] Shipping label generated for transaction #10235 to North America
+2025-11-12 13:23:50.402 [INFO] [ShippingService] Processing order #10206 - KitchenAid Stand Mixer x1
+2025-11-12 08:54:06.605 [INFO] [OrderService] Shipping label generated for transaction #10202 to North America
+2025-11-12 09:17:16.829 [INFO] [PaymentService] Order confirmation sent for transaction #10202
+2025-11-11 23:08:03.777 [INFO] [PaymentService] Shipping label generated for transaction #10228 to Asia
+2025-11-12 02:45:33.898 [WARN] [NotificationService] Low stock alert for product 'Anova Precision Cooker': 6 units remaining
+2025-11-12 11:05:45.383 [INFO] [NotificationService] Payment authorized for transaction #10207: $196.00 via Debit Card
+2025-11-12 00:37:13.293 [INFO] [ShippingService] Inventory check passed for 'Oakley Holbrook Sunglasses' in category Sports
+2025-11-12 12:54:23.756 [INFO] [InventoryService] Order confirmation sent for transaction #10217
+2025-11-12 16:24:36.382 [INFO] [ShippingService] Stock updated for product 'Lululemon Wunder Under High-Rise Leggings': -2 units
+2025-11-12 21:54:13.213 [WARN] [PaymentService] High transaction volume detected in North America: 226 orders/minute
+2025-11-12 16:13:59.892 [ERROR] [TransactionService] Shipping address validation failed for transaction #10229: Invalid postal code
+2025-11-12 09:30:58.413 [INFO] [OrderService] Shipping label generated for transaction #10195 to Asia
+2025-11-12 17:05:34.932 [INFO] [ShippingService] Shipping label generated for transaction #10170 to Europe
+2025-11-12 02:32:27.220 [ERROR] [OrderService] Payment gateway error for transaction #10235: Connection timeout
+2025-11-12 10:27:01.221 [INFO] [ShippingService] Order confirmation sent for transaction #10210
+2025-11-12 02:46:34.898 [INFO] [NotificationService] Stock updated for product 'Champion Reverse Weave Hoodie': -3 units
+2025-11-12 19:55:58.878 [INFO] [InventoryService] Shipping label generated for transaction #10223 to North America
+2025-11-12 22:06:18.859 [INFO] [OrderService] Shipping label generated for transaction #10195 to Asia
+2025-11-12 18:40:55.776 [ERROR] [OrderService] Payment gateway error for transaction #10175: Connection timeout
+2025-11-11 23:44:07.098 [INFO] [ShippingService] Processing order #10215 - L'Occitane Shea Butter Hand Cream x2
+2025-11-12 02:31:11.768 [INFO] [ShippingService] Inventory check passed for 'Amazon Fire TV Stick 4K' in category Electronics
+2025-11-12 16:06:01.945 [INFO] [OrderService] Shipping label generated for transaction #10183 to Asia
+2025-11-12 13:48:55.626 [INFO] [InventoryService] Stock updated for product 'Canon EOS Rebel T7i DSLR Camera': -1 units
+2025-11-12 16:27:47.300 [INFO] [TransactionService] Stock updated for product 'Sunday Riley Luna Sleeping Night Oil': -1 units
+2025-11-12 13:09:37.167 [INFO] [NotificationService] Inventory check passed for 'Oakley Holbrook Sunglasses' in category Sports
+2025-11-12 11:36:26.342 [INFO] [TransactionService] Stock updated for product 'L'Occitane Shea Butter Hand Cream': -2 units
+2025-11-12 19:52:32.448 [INFO] [PaymentService] Stock updated for product 'The Handmaid's Tale by Margaret Atwood': -3 units
+2025-11-11 23:13:46.555 [INFO] [PaymentService] Order confirmation sent for transaction #10226
+2025-11-12 19:54:40.911 [INFO] [OrderService] Processing order #10227 - The Ordinary Caffeine Solution 5% + EGCG x1
+2025-11-12 20:45:56.683 [INFO] [TransactionService] Processing order #10213 - Uniqlo Airism Seamless Boxer Briefs x4
+2025-11-12 20:10:38.516 [ERROR] [NotificationService] Failed to send order confirmation for transaction #10201: SMTP error
+2025-11-12 16:41:09.711 [WARN] [InventoryService] Product 'Bowflex SelectTech 1090 Adjustable Dumbbells' approaching reorder point in Asia
+2025-11-12 20:39:05.550 [INFO] [ShippingService] Processing order #10199 - Apple TV 4K x2
+2025-11-12 17:01:20.924 [INFO] [PaymentService] Shipping label generated for transaction #10239 to Europe
+2025-11-12 03:40:08.210 [WARN] [ShippingService] Payment processing delay for transaction #10175: 2 seconds
+2025-11-12 20:22:17.813 [INFO] [ShippingService] Processing order #10207 - Lululemon Wunder Under High-Rise Leggings x2
+2025-11-12 17:32:53.170 [INFO] [ShippingService] Payment authorized for transaction #10203: $52.00 via PayPal
+2025-11-12 09:28:21.711 [INFO] [NotificationService] Stock updated for product 'The Silent Patient by Alex Michaelides': -3 units
+2025-11-12 08:35:08.906 [ERROR] [ShippingService] Inventory check failed for product 'Google Nest Wifi Router': Database timeout
+2025-11-12 05:35:30.526 [INFO] [InventoryService] Processing order #10196 - The Road by Cormac McCarthy x2
+2025-11-12 21:25:58.562 [INFO] [TransactionService] Inventory check passed for 'Logitech G Pro X Wireless Gaming Headset' in category Electronics
+2025-11-12 05:58:02.722 [INFO] [ShippingService] Stock updated for product 'Amazon Fire TV Stick 4K': -3 units
+2025-11-12 22:28:17.584 [WARN] [InventoryService] High transaction volume detected in Europe: 428 orders/minute
+2025-11-12 00:31:33.818 [ERROR] [ShippingService] Inventory check failed for product 'Tarte Shape Tape Concealer': Database timeout
+2025-11-12 09:37:00.293 [WARN] [InventoryService] Payment processing delay for transaction #10226: 5 seconds
+2025-11-12 15:43:42.719 [ERROR] [TransactionService] Payment gateway error for transaction #10174: Connection timeout
+2025-11-12 22:28:43.782 [INFO] [InventoryService] Payment authorized for transaction #10236: $159.99 via PayPal
+2025-11-12 13:41:02.378 [WARN] [OrderService] Payment processing delay for transaction #10210: 2 seconds
+2025-11-12 10:29:38.780 [INFO] [PaymentService] Inventory check passed for 'Apple TV 4K' in category Electronics
+2025-11-12 13:49:59.684 [INFO] [PaymentService] Inventory check passed for 'Apple MacBook Pro 16-inch' in category Electronics
+2025-11-12 21:41:57.222 [INFO] [OrderService] Order confirmation sent for transaction #10218
+2025-11-12 19:29:22.150 [INFO] [PaymentService] Order confirmation sent for transaction #10199
+2025-11-12 13:22:55.287 [INFO] [TransactionService] Shipping label generated for transaction #10234 to Asia
+2025-11-12 02:57:29.538 [INFO] [PaymentService] Payment authorized for transaction #10190: $32.97 via Credit Card
+2025-11-12 11:58:15.002 [WARN] [ShippingService] Payment processing delay for transaction #10186: 3 seconds
+2025-11-12 11:31:11.149 [INFO] [PaymentService] Inventory check passed for 'Google Nest Wifi Router' in category Electronics
+2025-11-12 11:28:20.687 [INFO] [ShippingService] Transaction #10182 completed successfully - Total: $399.99
+2025-11-12 20:17:59.548 [ERROR] [PaymentService] Inventory check failed for product 'Bose SoundLink Color Bluetooth Speaker II': Database timeout
+2025-11-12 02:47:15.057 [WARN] [InventoryService] Product 'The Martian by Andy Weir' approaching reorder point in North America
+2025-11-12 02:36:16.600 [WARN] [NotificationService] Product 'Dyson V8 Absolute' approaching reorder point in Europe
+2025-11-12 18:39:59.647 [INFO] [TransactionService] Payment authorized for transaction #10185: $190.00 via PayPal
+2025-11-12 12:40:40.187 [WARN] [OrderService] High transaction volume detected in Asia: 367 orders/minute
+2025-11-12 19:58:56.508 [INFO] [NotificationService] Stock updated for product 'Keurig K-Elite Coffee Maker': -2 units
+2025-11-12 10:05:20.721 [WARN] [NotificationService] Product 'The Goldfinch by Donna Tartt' approaching reorder point in North America
+2025-11-12 04:43:31.328 [INFO] [ShippingService] Stock updated for product 'Anova Precision Cooker': -2 units
+2025-11-12 22:22:59.914 [INFO] [NotificationService] Stock updated for product 'YETI Tundra 65 Cooler': -1 units
+2025-11-12 19:32:03.964 [INFO] [ShippingService] Payment authorized for transaction #10211: $749.99 via Credit Card
+2025-11-11 23:51:33.557 [INFO] [OrderService] Transaction #10188 completed successfully - Total: $398.00
+2025-11-12 15:56:43.101 [INFO] [NotificationService] Payment authorized for transaction #10179: $68.00 via PayPal
+2025-11-12 22:12:49.379 [INFO] [ShippingService] Transaction #10187 completed successfully - Total: $399.00
+2025-11-12 19:11:09.690 [INFO] [InventoryService] Payment authorized for transaction #10233: $24.00 via PayPal
+2025-11-12 03:36:23.871 [INFO] [TransactionService] Order confirmation sent for transaction #10223
+2025-11-12 00:48:35.706 [INFO] [TransactionService] Transaction #10183 completed successfully - Total: $179.97
+2025-11-12 18:07:12.387 [INFO] [InventoryService] Shipping label generated for transaction #10169 to North America
+2025-11-12 13:40:44.285 [INFO] [PaymentService] Stock updated for product 'The Girl with the Dragon Tattoo by Stieg Larsson': -3 units
+2025-11-12 11:07:25.136 [WARN] [ShippingService] Payment processing delay for transaction #10239: 3 seconds
+2025-11-12 13:06:22.451 [INFO] [TransactionService] Transaction #10234 completed successfully - Total: $98.85
+2025-11-12 02:29:02.708 [INFO] [ShippingService] Transaction #10217 completed successfully - Total: $2399.00
+2025-11-12 01:38:29.771 [INFO] [OrderService] Order confirmation sent for transaction #10179
+2025-11-12 03:37:37.626 [ERROR] [PaymentService] Failed to send order confirmation for transaction #10169: SMTP error
+2025-11-12 16:22:57.250 [INFO] [ShippingService] Payment authorized for transaction #10186: $499.95 via Credit Card
+2025-11-12 02:41:54.141 [INFO] [NotificationService] Order confirmation sent for transaction #10184
+2025-11-11 23:22:07.485 [INFO] [PaymentService] Transaction #10240 completed successfully - Total: $59.98
+2025-11-12 06:03:47.016 [INFO] [ShippingService] Processing order #10170 - Instant Pot Duo Evo Plus x2
+2025-11-11 22:55:32.068 [ERROR] [InventoryService] Payment declined for transaction #10230: Insufficient funds
+2025-11-12 11:28:55.113 [INFO] [OrderService] Stock updated for product 'Fitbit Luxe': -2 units
+2025-11-12 03:45:07.914 [INFO] [OrderService] Processing order #10233 - Fresh Sugar Lip Treatment x1
+2025-11-12 13:37:41.429 [INFO] [NotificationService] Order confirmation sent for transaction #10223
+2025-11-12 16:43:16.786 [INFO] [TransactionService] Transaction #10169 completed successfully - Total: $699.99
+2025-11-12 12:52:16.980 [INFO] [TransactionService] Processing order #10236 - Nespresso Vertuo Next Coffee and Espresso Maker x1
+2025-11-12 11:08:09.508 [INFO] [ShippingService] Order confirmation sent for transaction #10212
+2025-11-12 16:44:02.044 [WARN] [OrderService] Product 'Dyson V8 Absolute' approaching reorder point in Europe
+2025-11-12 15:47:04.367 [INFO] [PaymentService] Order confirmation sent for transaction #10203
+2025-11-12 13:12:26.470 [INFO] [OrderService] Payment authorized for transaction #10210: $129.00 via Credit Card
+2025-11-12 19:05:55.471 [INFO] [NotificationService] Order confirmation sent for transaction #10182
+2025-11-12 12:12:56.083 [INFO] [OrderService] Inventory check passed for 'Anova Precision Oven' in category Home Appliances
+2025-11-12 02:58:52.419 [INFO] [NotificationService] Payment authorized for transaction #10227: $6.70 via PayPal
+2025-11-12 00:14:22.145 [INFO] [PaymentService] Processing order #10195 - Adidas Ultraboost Running Shoes x2
+2025-11-12 10:51:49.046 [INFO] [PaymentService] Order confirmation sent for transaction #10219
+2025-11-12 14:11:21.071 [INFO] [NotificationService] Processing order #10201 - Gap 1969 Original Fit Jeans x3
+2025-11-12 04:47:11.222 [INFO] [PaymentService] Processing order #10183 - Levi's 511 Slim Fit Jeans x3
+2025-11-11 23:08:17.840 [INFO] [InventoryService] Order confirmation sent for transaction #10220
+2025-11-12 19:16:47.672 [INFO] [InventoryService] Stock updated for product 'Philips Sonicare DiamondClean Toothbrush': -2 units
+2025-11-12 14:59:33.018 [INFO] [InventoryService] Shipping label generated for transaction #10194 to Europe
+2025-11-12 03:22:09.097 [INFO] [NotificationService] Payment authorized for transaction #10190: $32.97 via Credit Card
+2025-11-12 18:26:24.547 [INFO] [OrderService] Processing order #10224 - Philips Sonicare DiamondClean Toothbrush x2
+2025-11-12 00:06:17.759 [INFO] [OrderService] Transaction #10226 completed successfully - Total: $80.97
+2025-11-12 07:44:03.708 [INFO] [PaymentService] Processing order #10232 - Dune by Frank Herbert x2
+2025-11-12 14:57:56.948 [WARN] [ShippingService] Product 'Amazon Echo Dot (4th Gen)' approaching reorder point in North America
+2025-11-12 08:53:54.407 [INFO] [NotificationService] Order confirmation sent for transaction #10176
+2025-11-12 12:12:20.290 [INFO] [TransactionService] Inventory check passed for 'Samsung Galaxy Watch 4' in category Electronics
+2025-11-12 05:39:45.542 [INFO] [NotificationService] Stock updated for product 'First Aid Beauty Ultra Repair Cream': -2 units
+2025-11-11 23:22:55.160 [WARN] [ShippingService] Payment processing delay for transaction #10216: 5 seconds
+2025-11-12 09:29:28.293 [INFO] [NotificationService] Transaction #10239 completed successfully - Total: $55.00
+2025-11-12 19:17:45.658 [INFO] [TransactionService] Stock updated for product 'Nike Air Force 1 Sneakers': -3 units
+2025-11-12 07:13:22.682 [INFO] [OrderService] Payment authorized for transaction #10179: $68.00 via PayPal
+2025-11-12 17:18:32.194 [ERROR] [PaymentService] Failed to send order confirmation for transaction #10195: SMTP error
+2025-11-12 14:24:24.863 [ERROR] [InventoryService] Payment declined for transaction #10196: Insufficient funds
+2025-11-12 02:16:31.986 [INFO] [NotificationService] Stock updated for product 'Polar Vantage V2': -1 units
+2025-11-12 08:12:26.930 [INFO] [NotificationService] Order confirmation sent for transaction #10174
+2025-11-12 07:06:59.913 [INFO] [NotificationService] Order confirmation sent for transaction #10213
+2025-11-12 01:31:56.269 [INFO] [PaymentService] Payment authorized for transaction #10183: $179.97 via Debit Card
+2025-11-12 19:49:52.825 [INFO] [NotificationService] Shipping label generated for transaction #10169 to North America
+2025-11-12 17:30:06.156 [INFO] [InventoryService] Processing order #10215 - L'Occitane Shea Butter Hand Cream x2
+2025-11-12 16:58:17.367 [INFO] [OrderService] Order confirmation sent for transaction #10232
+2025-11-11 22:56:22.839 [WARN] [NotificationService] Low stock alert for product 'Uniqlo Airism Mesh Boxer Briefs': 8 units remaining
+2025-11-12 10:22:49.097 [INFO] [NotificationService] Inventory check passed for 'The Girl with the Dragon Tattoo by Stieg Larsson' in category Books
+2025-11-12 13:53:43.024 [INFO] [TransactionService] Shipping label generated for transaction #10215 to Europe
+2025-11-12 04:07:07.436 [INFO] [NotificationService] Shipping label generated for transaction #10202 to North America
+2025-11-12 09:23:44.768 [INFO] [TransactionService] Processing order #10176 - Crock-Pot 6-Quart Slow Cooker x2
+2025-11-12 06:38:28.383 [INFO] [ShippingService] Order confirmation sent for transaction #10178
+2025-11-12 04:01:08.763 [INFO] [OrderService] Transaction #10195 completed successfully - Total: $359.98
+2025-11-12 11:21:37.878 [ERROR] [ShippingService] Inventory check failed for product 'Champion Reverse Weave Hoodie': Database timeout
+2025-11-12 01:02:50.668 [WARN] [OrderService] Unusual transaction pattern detected for payment method: Credit Card
+2025-11-11 23:23:54.461 [INFO] [NotificationService] Processing order #10214 - The Girl with the Dragon Tattoo by Stieg Larsson x3
+2025-11-12 20:43:37.047 [INFO] [ShippingService] Stock updated for product 'YETI Tundra 65 Cooler': -1 units
+2025-11-12 01:40:36.178 [INFO] [TransactionService] Payment authorized for transaction #10193: $199.99 via Credit Card
+2025-11-12 02:20:02.727 [INFO] [NotificationService] Inventory check passed for 'Canon EOS Rebel T7i DSLR Camera' in category Electronics
+2025-11-12 03:57:33.824 [INFO] [TransactionService] Shipping label generated for transaction #10182 to Europe
+2025-11-12 06:48:26.039 [ERROR] [NotificationService] Failed to send order confirmation for transaction #10211: SMTP error
+2025-11-12 10:38:49.271 [ERROR] [ShippingService] Shipping address validation failed for transaction #10210: Invalid postal code
+2025-11-12 16:30:38.319 [WARN] [NotificationService] Payment processing delay for transaction #10173: 5 seconds
+2025-11-12 16:10:16.882 [INFO] [ShippingService] Order confirmation sent for transaction #10218
+2025-11-12 11:32:51.910 [INFO] [TransactionService] Order confirmation sent for transaction #10221
+2025-11-12 22:05:41.901 [INFO] [OrderService] Processing order #10192 - TRX All-in-One Suspension Training System x1
+2025-11-12 15:26:42.403 [INFO] [TransactionService] Processing order #10179 - First Aid Beauty Ultra Repair Cream x2
+2025-11-12 18:58:56.487 [ERROR] [ShippingService] Failed to send order confirmation for transaction #10222: SMTP error
+2025-11-12 14:49:12.546 [INFO] [OrderService] Processing order #10188 - Anova Precision Cooker x2
+2025-11-12 00:36:25.635 [INFO] [OrderService] Order confirmation sent for transaction #10179
+2025-11-12 10:56:23.019 [WARN] [TransactionService] Payment processing delay for transaction #10214: 3 seconds
+2025-11-12 01:42:27.029 [INFO] [InventoryService] Order confirmation sent for transaction #10195
+2025-11-12 06:01:26.256 [INFO] [NotificationService] Processing order #10236 - Nespresso Vertuo Next Coffee and Espresso Maker x1
+2025-11-12 07:35:44.361 [INFO] [OrderService] Inventory check passed for 'Crock-Pot 6-Quart Slow Cooker' in category Home Appliances
+2025-11-11 23:22:02.257 [INFO] [TransactionService] Transaction #10174 completed successfully - Total: $699.99
+2025-11-12 21:22:55.917 [INFO] [OrderService] Processing order #10228 - Fitbit Luxe x2
+2025-11-12 05:58:46.094 [INFO] [OrderService] Transaction #10237 completed successfully - Total: $270.00
+2025-11-12 00:18:59.559 [INFO] [TransactionService] Stock updated for product 'Google Pixelbook Go': -1 units
+2025-11-12 05:37:56.559 [INFO] [NotificationService] Inventory check passed for 'Anova Precision Cooker' in category Home Appliances
+2025-11-12 03:51:41.032 [ERROR] [OrderService] Failed to send order confirmation for transaction #10220: SMTP error
+2025-11-12 04:43:21.152 [INFO] [TransactionService] Stock updated for product 'Nike Air Force 1 Sneakers': -3 units
+2025-11-12 16:16:56.883 [INFO] [TransactionService] Stock updated for product 'Philips Sonicare DiamondClean Toothbrush': -2 units
+2025-11-12 22:13:32.290 [INFO] [TransactionService] Inventory check passed for 'Uniqlo Airism Seamless Boxer Briefs' in category Clothing
+2025-11-12 03:37:40.656 [INFO] [NotificationService] Processing order #10221 - Tarte Shape Tape Concealer x1
+2025-11-12 01:48:49.627 [WARN] [OrderService] Low stock alert for product 'Bose SoundLink Color Bluetooth Speaker II': 7 units remaining
+2025-11-12 10:06:59.156 [ERROR] [InventoryService] Payment gateway error for transaction #10187: Connection timeout
+2025-11-12 20:35:58.518 [INFO] [ShippingService] Processing order #10226 - The Silent Patient by Alex Michaelides x3
+2025-11-12 22:02:08.593 [INFO] [PaymentService] Stock updated for product 'Philips Sonicare DiamondClean Toothbrush': -2 units
+2025-11-12 11:30:19.124 [INFO] [TransactionService] Processing order #10199 - Apple TV 4K x2
+2025-11-12 03:06:55.436 [ERROR] [NotificationService] Failed to send order confirmation for transaction #10202: SMTP error
+2025-11-12 18:06:06.943 [INFO] [PaymentService] Payment authorized for transaction #10219: $149.97 via Debit Card
+2025-11-12 14:35:43.160 [INFO] [ShippingService] Payment authorized for transaction #10175: $149.97 via Credit Card
+2025-11-12 00:23:26.901 [INFO] [PaymentService] Order confirmation sent for transaction #10177
+2025-11-12 18:18:07.279 [ERROR] [InventoryService] Payment gateway error for transaction #10230: Connection timeout
+2025-11-12 12:52:06.938 [INFO] [InventoryService] Payment authorized for transaction #10196: $23.98 via Credit Card
+2025-11-12 13:57:49.418 [INFO] [ShippingService] Order confirmation sent for transaction #10216
+2025-11-12 10:06:49.557 [INFO] [ShippingService] Inventory check passed for 'KitchenAid Stand Mixer' in category Home Appliances
+2025-11-12 11:39:21.592 [INFO] [NotificationService] Shipping label generated for transaction #10214 to North America
+2025-11-12 13:36:49.623 [INFO] [PaymentService] Order confirmation sent for transaction #10233
+2025-11-12 21:29:24.434 [ERROR] [TransactionService] Shipping address validation failed for transaction #10230: Invalid postal code
+2025-11-12 15:20:31.547 [INFO] [OrderService] Transaction #10223 completed successfully - Total: $199.96
+2025-11-12 10:16:01.031 [WARN] [OrderService] Product 'Amazon Fire TV Stick 4K' approaching reorder point in North America
+2025-11-12 14:16:01.780 [INFO] [TransactionService] Inventory check passed for 'The Silent Patient by Alex Michaelides' in category Books
+2025-11-12 09:46:01.586 [WARN] [TransactionService] High transaction volume detected in North America: 265 orders/minute
+2025-11-12 02:19:44.342 [INFO] [NotificationService] Inventory check passed for 'Bose QuietComfort 35 II Wireless Headphones' in category Electronics
+2025-11-12 18:04:24.773 [WARN] [PaymentService] High transaction volume detected in North America: 208 orders/minute
+2025-11-12 19:28:28.169 [WARN] [InventoryService] Low stock alert for product 'GoPro HERO9 Black': 7 units remaining
+2025-11-12 02:08:52.716 [WARN] [PaymentService] Low stock alert for product 'Keurig K-Elite Coffee Maker': 2 units remaining
+2025-11-12 21:59:35.810 [INFO] [NotificationService] Payment authorized for transaction #10227: $6.70 via PayPal
+2025-11-12 00:40:09.514 [INFO] [NotificationService] Stock updated for product 'The Silent Patient by Alex Michaelides': -3 units
+2025-11-12 01:25:18.298 [INFO] [TransactionService] Stock updated for product 'Levi's 511 Slim Fit Jeans': -3 units
+2025-11-12 02:38:33.962 [INFO] [ShippingService] Order confirmation sent for transaction #10218
+2025-11-12 11:06:51.379 [INFO] [NotificationService] Stock updated for product 'The Handmaid's Tale by Margaret Atwood': -3 units
+2025-11-12 02:09:07.964 [INFO] [InventoryService] Payment authorized for transaction #10186: $499.95 via Credit Card
+2025-11-12 14:52:42.361 [INFO] [InventoryService] Transaction #10186 completed successfully - Total: $499.95
+2025-11-12 14:34:42.621 [INFO] [TransactionService] Transaction #10178 completed successfully - Total: $35.97
+2025-11-12 17:48:43.421 [ERROR] [ShippingService] Payment declined for transaction #10231: Insufficient funds
+2025-11-12 08:36:41.959 [INFO] [NotificationService] Stock updated for product 'Breville Smart Coffee Grinder Pro': -1 units
+2025-11-12 04:08:05.922 [INFO] [OrderService] Payment authorized for transaction #10233: $24.00 via PayPal
+2025-11-12 01:25:35.504 [WARN] [TransactionService] High transaction volume detected in North America: 469 orders/minute
+2025-11-12 10:15:58.610 [INFO] [NotificationService] Processing order #10229 - Google Nest Wifi Router x1
+2025-11-12 19:44:13.758 [ERROR] [TransactionService] Shipping address validation failed for transaction #10223: Invalid postal code
+2025-11-12 05:19:59.511 [INFO] [NotificationService] Inventory check passed for 'Uniqlo Airism Seamless Boxer Briefs' in category Clothing
+2025-11-12 03:13:44.276 [WARN] [OrderService] Unusual transaction pattern detected for payment method: PayPal
+2025-11-12 04:27:30.935 [INFO] [NotificationService] Inventory check passed for 'Bose QuietComfort 35 II Wireless Headphones' in category Electronics
+2025-11-12 03:26:02.715 [INFO] [InventoryService] Stock updated for product 'The Road by Cormac McCarthy': -2 units
+2025-11-12 10:35:29.626 [WARN] [InventoryService] Low stock alert for product 'GoPro HERO9 Black': 9 units remaining
+2025-11-12 00:35:05.428 [INFO] [InventoryService] Inventory check passed for 'GoPro HERO9 Black' in category Sports
+2025-11-12 10:05:50.782 [INFO] [OrderService] Transaction #10199 completed successfully - Total: $358.00
+2025-11-12 16:07:22.679 [WARN] [NotificationService] Unusual transaction pattern detected for payment method: Credit Card
+2025-11-12 11:25:45.470 [INFO] [ShippingService] Stock updated for product 'Sunday Riley Luna Sleeping Night Oil': -1 units
+2025-11-12 15:45:42.841 [INFO] [InventoryService] Inventory check passed for 'Instant Pot Duo Evo Plus' in category Home Appliances
+2025-11-12 09:48:39.395 [INFO] [InventoryService] Stock updated for product 'Dr. Jart+ Cicapair Tiger Grass Color Correcting Treatment': -1 units
+2025-11-12 02:45:38.974 [INFO] [ShippingService] Order confirmation sent for transaction #10183
+2025-11-12 04:02:30.672 [WARN] [OrderService] Unusual transaction pattern detected for payment method: PayPal
+2025-11-12 12:00:08.532 [WARN] [ShippingService] Product 'The Catcher in the Rye by J.D. Salinger' approaching reorder point in North America
+2025-11-12 10:46:05.792 [INFO] [InventoryService] Processing order #10224 - Philips Sonicare DiamondClean Toothbrush x2
+2025-11-12 09:14:34.427 [INFO] [PaymentService] Processing order #10198 - GoPro HERO9 Black x1
+2025-11-12 13:23:47.436 [ERROR] [ShippingService] Shipping address validation failed for transaction #10220: Invalid postal code
+2025-11-12 01:09:57.660 [INFO] [NotificationService] Inventory check passed for 'Google Pixelbook Go' in category Electronics
+2025-11-12 16:14:15.864 [INFO] [PaymentService] Processing order #10205 - Samsung Galaxy Watch 4 x1
+2025-11-12 22:03:40.845 [INFO] [ShippingService] Shipping label generated for transaction #10228 to Asia
+2025-11-12 20:38:01.328 [INFO] [ShippingService] Payment authorized for transaction #10204: $399.99 via Credit Card
+2025-11-12 06:27:59.296 [INFO] [PaymentService] Processing order #10226 - The Silent Patient by Alex Michaelides x3
+2025-11-12 08:11:38.084 [INFO] [ShippingService] Payment authorized for transaction #10207: $196.00 via Debit Card
+2025-11-12 17:56:48.920 [INFO] [InventoryService] Transaction #10218 completed successfully - Total: $449.99
+2025-11-12 15:03:13.658 [INFO] [NotificationService] Payment authorized for transaction #10169: $699.99 via Credit Card
+2025-11-11 22:54:46.031 [WARN] [ShippingService] Payment processing delay for transaction #10240: 2 seconds
+2025-11-12 05:42:47.451 [INFO] [ShippingService] Inventory check passed for 'Apple TV 4K' in category Electronics
+2025-11-12 07:50:50.106 [INFO] [InventoryService] Transaction #10198 completed successfully - Total: $449.99
+2025-11-12 12:35:47.333 [INFO] [OrderService] Transaction #10230 completed successfully - Total: $599.00
+2025-11-12 10:01:57.938 [INFO] [PaymentService] Payment authorized for transaction #10176: $99.98 via PayPal
+2025-11-11 23:50:01.576 [ERROR] [NotificationService] Shipping address validation failed for transaction #10204: Invalid postal code
+2025-11-12 05:56:21.871 [INFO] [PaymentService] Processing order #10232 - Dune by Frank Herbert x2
+2025-11-12 07:20:59.607 [INFO] [InventoryService] Inventory check passed for 'Glossier Cloud Paint' in category Beauty Products
+2025-11-12 14:20:13.806 [INFO] [ShippingService] Shipping label generated for transaction #10181 to North America
+2025-11-12 01:05:00.617 [WARN] [PaymentService] High transaction volume detected in North America: 402 orders/minute
+2025-11-12 07:50:04.078 [WARN] [OrderService] High transaction volume detected in Asia: 445 orders/minute
+2025-11-12 08:45:36.605 [INFO] [TransactionService] Transaction #10188 completed successfully - Total: $398.00
+2025-11-12 12:07:23.710 [ERROR] [InventoryService] Failed to send order confirmation for transaction #10171: SMTP error
+2025-11-12 03:29:03.675 [WARN] [NotificationService] High transaction volume detected in Europe: 178 orders/minute
+2025-11-12 02:31:29.349 [INFO] [NotificationService] Transaction #10186 completed successfully - Total: $499.95
+2025-11-12 06:43:08.270 [INFO] [NotificationService] Processing order #10214 - The Girl with the Dragon Tattoo by Stieg Larsson x3
+2025-11-12 12:17:36.235 [INFO] [NotificationService] Stock updated for product 'Logitech G Pro X Wireless Gaming Headset': -1 units
+2025-11-12 21:32:39.147 [INFO] [NotificationService] Order confirmation sent for transaction #10175
+2025-11-12 14:28:27.437 [WARN] [PaymentService] Low stock alert for product 'First Aid Beauty Ultra Repair Cream': 7 units remaining
+2025-11-11 23:16:04.573 [INFO] [InventoryService] Transaction #10195 completed successfully - Total: $359.98
+2025-11-12 05:40:25.062 [INFO] [NotificationService] Inventory check passed for 'Amazon Echo Dot (4th Gen)' in category Electronics
+2025-11-12 06:38:25.410 [INFO] [ShippingService] Stock updated for product 'Dyson V8 Absolute': -1 units
+2025-11-12 15:10:17.237 [INFO] [InventoryService] Order confirmation sent for transaction #10182
+2025-11-12 08:11:38.689 [INFO] [NotificationService] Stock updated for product 'Logitech G Pro X Wireless Gaming Headset': -1 units
+2025-11-12 02:01:35.585 [INFO] [InventoryService] Order confirmation sent for transaction #10196
+2025-11-12 22:16:15.680 [WARN] [PaymentService] Low stock alert for product 'Samsung Galaxy Watch 4': 9 units remaining
+2025-11-12 10:23:38.083 [INFO] [TransactionService] Processing order #10234 - Hydro Flask Standard Mouth Water Bottle x3
+2025-11-12 18:08:23.290 [ERROR] [PaymentService] Payment gateway error for transaction #10204: Connection timeout
+2025-11-11 23:15:35.390 [INFO] [NotificationService] Payment authorized for transaction #10194: $199.95 via PayPal
+2025-11-12 03:48:38.419 [WARN] [NotificationService] Product 'The Nightingale by Kristin Hannah' approaching reorder point in North America
+2025-11-12 09:35:46.295 [INFO] [InventoryService] Payment authorized for transaction #10240: $59.98 via Credit Card
+2025-11-12 01:33:50.753 [WARN] [InventoryService] High transaction volume detected in North America: 257 orders/minute
+2025-11-12 13:15:15.767 [WARN] [NotificationService] Unusual transaction pattern detected for payment method: Credit Card
+2025-11-12 14:45:10.902 [WARN] [ShippingService] Low stock alert for product 'L'Occitane Shea Butter Hand Cream': 1 units remaining
+2025-11-12 13:10:51.450 [INFO] [TransactionService] Order confirmation sent for transaction #10200
+2025-11-12 03:17:56.289 [ERROR] [PaymentService] Payment declined for transaction #10177: Insufficient funds
+2025-11-12 09:31:56.554 [INFO] [NotificationService] Payment authorized for transaction #10208: $50.97 via Credit Card
+2025-11-12 20:12:40.038 [INFO] [PaymentService] Shipping label generated for transaction #10191 to Europe
+2025-11-12 22:34:19.298 [INFO] [NotificationService] Shipping label generated for transaction #10220 to North America
+2025-11-12 15:16:18.916 [WARN] [PaymentService] Low stock alert for product 'Sonos Beam Soundbar': 1 units remaining
+2025-11-12 04:36:56.050 [INFO] [NotificationService] Inventory check passed for 'The Ordinary Caffeine Solution 5% + EGCG' in category Beauty Products
+2025-11-12 21:30:04.601 [INFO] [InventoryService] Transaction #10197 completed successfully - Total: $125.00
+2025-11-12 06:00:24.439 [INFO] [TransactionService] Payment authorized for transaction #10218: $449.99 via PayPal
+2025-11-12 22:32:56.055 [INFO] [TransactionService] Processing order #10173 - Paula's Choice Skin Perfecting 2% BHA Liquid Exfoliant x1
+2025-11-12 04:39:50.925 [INFO] [TransactionService] Shipping label generated for transaction #10204 to Asia
+2025-11-12 12:58:46.853 [INFO] [InventoryService] Shipping label generated for transaction #10227 to Europe
+2025-11-12 11:12:47.672 [INFO] [NotificationService] Order confirmation sent for transaction #10182
+2025-11-12 06:08:10.685 [INFO] [OrderService] Processing order #10169 - Samsung Odyssey G7 Gaming Monitor x1
+2025-11-12 21:39:25.463 [INFO] [ShippingService] Shipping label generated for transaction #10233 to Europe
+2025-11-12 03:43:31.390 [INFO] [TransactionService] Processing order #10235 - Bose QuietComfort 35 II Wireless Headphones x1
+2025-11-12 09:52:05.462 [INFO] [OrderService] Inventory check passed for 'Dr. Jart+ Cicapair Tiger Grass Color Correcting Treatment' in category Beauty Products
+2025-11-12 00:00:51.761 [INFO] [NotificationService] Order confirmation sent for transaction #10226
+2025-11-12 01:26:23.118 [INFO] [InventoryService] Order confirmation sent for transaction #10210
+2025-11-12 08:05:35.882 [INFO] [OrderService] Stock updated for product 'Adidas Ultraboost Running Shoes': -2 units
+2025-11-12 10:01:48.914 [INFO] [TransactionService] Shipping label generated for transaction #10188 to Europe
+2025-11-12 07:33:36.669 [INFO] [ShippingService] Stock updated for product 'GoPro HERO9 Black': -1 units
+2025-11-12 05:41:34.675 [INFO] [OrderService] Processing order #10194 - Breville Smart Coffee Grinder Pro x1
+2025-11-12 01:31:21.190 [INFO] [NotificationService] Stock updated for product 'Gap 1969 Original Fit Jeans': -3 units
+2025-11-12 13:13:15.800 [INFO] [OrderService] Payment authorized for transaction #10173: $29.50 via PayPal
+2025-11-12 09:18:32.225 [INFO] [NotificationService] Stock updated for product 'Yeti Tundra Haul Portable Wheeled Cooler': -1 units
+2025-11-12 16:46:23.837 [INFO] [OrderService] Order confirmation sent for transaction #10209
+2025-11-12 00:32:24.117 [INFO] [NotificationService] Order confirmation sent for transaction #10188
+2025-11-12 03:30:31.235 [INFO] [OrderService] Inventory check passed for 'Bowflex SelectTech 1090 Adjustable Dumbbells' in category Sports
+2025-11-12 18:23:29.861 [INFO] [OrderService] Inventory check passed for 'Yeti Tundra Haul Portable Wheeled Cooler' in category Sports
+2025-11-12 12:41:13.994 [ERROR] [ShippingService] Inventory check failed for product 'Hydro Flask Standard Mouth Water Bottle': Database timeout
+2025-11-12 19:10:35.931 [WARN] [InventoryService] Payment processing delay for transaction #10232: 3 seconds
+2025-11-12 02:26:37.673 [INFO] [ShippingService] Transaction #10200 completed successfully - Total: $99.95
+2025-11-12 03:41:53.535 [INFO] [OrderService] Transaction #10179 completed successfully - Total: $68.00
+2025-11-12 21:48:51.333 [INFO] [ShippingService] Transaction #10239 completed successfully - Total: $55.00
+2025-11-12 02:52:19.522 [INFO] [InventoryService] Payment authorized for transaction #10195: $359.98 via Debit Card
+2025-11-12 10:30:53.056 [ERROR] [InventoryService] Inventory check failed for product 'Bose QuietComfort 35 II Wireless Headphones': Database timeout
+2025-11-12 11:49:11.416 [INFO] [PaymentService] Transaction #10215 completed successfully - Total: $58.00
+2025-11-12 14:07:06.480 [INFO] [PaymentService] Order confirmation sent for transaction #10224
+2025-11-12 20:18:36.969 [WARN] [NotificationService] Product 'Champion Reverse Weave Hoodie' approaching reorder point in Asia
+2025-11-12 18:21:42.746 [ERROR] [OrderService] Failed to send order confirmation for transaction #10197: SMTP error
+2025-11-12 03:59:24.153 [ERROR] [ShippingService] Payment declined for transaction #10186: Insufficient funds
+2025-11-12 09:54:46.180 [ERROR] [OrderService] Failed to send order confirmation for transaction #10227: SMTP error
+2025-11-12 16:07:39.263 [INFO] [InventoryService] Processing order #10225 - Old Navy Mid-Rise Rockstar Super Skinny Jeans x2
+2025-11-12 22:07:41.696 [INFO] [OrderService] Order confirmation sent for transaction #10225
+2025-11-12 04:24:43.052 [INFO] [TransactionService] Processing order #10179 - First Aid Beauty Ultra Repair Cream x2
+2025-11-12 16:20:56.036 [INFO] [NotificationService] Order confirmation sent for transaction #10173
+2025-11-12 00:28:23.957 [INFO] [OrderService] Payment authorized for transaction #10234: $98.85 via Credit Card
+2025-11-12 05:38:50.892 [INFO] [OrderService] Inventory check passed for 'Apple MacBook Pro 16-inch' in category Electronics
+2025-11-12 10:44:55.306 [INFO] [NotificationService] Payment authorized for transaction #10185: $190.00 via PayPal
+2025-11-12 18:31:34.264 [INFO] [TransactionService] Order confirmation sent for transaction #10211
+2025-11-12 04:39:07.656 [INFO] [ShippingService] Processing order #10214 - The Girl with the Dragon Tattoo by Stieg Larsson x3
+2025-11-12 16:24:32.930 [INFO] [PaymentService] Shipping label generated for transaction #10184 to North America
+2025-11-12 18:16:16.129 [INFO] [NotificationService] Transaction #10192 completed successfully - Total: $169.95
+2025-11-12 17:31:42.805 [ERROR] [InventoryService] Failed to send order confirmation for transaction #10216: SMTP error
+2025-11-12 15:11:51.724 [INFO] [PaymentService] Stock updated for product 'The Handmaid's Tale by Margaret Atwood': -3 units
+2025-11-12 17:47:57.864 [WARN] [InventoryService] Product 'Caudalie Vinoperfect Radiance Serum' approaching reorder point in Europe
+2025-11-12 16:49:10.316 [INFO] [OrderService] Shipping label generated for transaction #10208 to North America
+2025-11-12 02:03:12.589 [WARN] [ShippingService] Payment processing delay for transaction #10229: 4 seconds
+2025-11-12 02:28:31.351 [INFO] [ShippingService] Order confirmation sent for transaction #10177
+2025-11-12 16:20:21.978 [INFO] [ShippingService] Stock updated for product 'Glossier Cloud Paint': -1 units
+2025-11-12 07:56:47.686 [ERROR] [TransactionService] Payment gateway error for transaction #10240: Connection timeout
+2025-11-12 13:34:15.992 [WARN] [InventoryService] Payment processing delay for transaction #10214: 3 seconds
+2025-11-12 14:52:00.969 [INFO] [ShippingService] Shipping label generated for transaction #10206 to Europe
+2025-11-12 14:38:56.298 [INFO] [PaymentService] Shipping label generated for transaction #10170 to Europe
+2025-11-12 11:23:56.986 [WARN] [NotificationService] Product 'Apple TV 4K' approaching reorder point in North America
+2025-11-12 19:34:47.669 [ERROR] [InventoryService] Payment gateway error for transaction #10225: Connection timeout
+2025-11-12 02:26:07.480 [INFO] [TransactionService] Inventory check passed for 'Philips Sonicare DiamondClean Toothbrush' in category Home Appliances
+2025-11-12 08:43:25.724 [INFO] [NotificationService] Transaction #10224 completed successfully - Total: $459.98
+2025-11-12 08:02:21.643 [WARN] [NotificationService] High transaction volume detected in North America: 342 orders/minute
+2025-11-12 13:00:53.284 [WARN] [ShippingService] Payment processing delay for transaction #10175: 2 seconds
+2025-11-12 09:09:19.198 [INFO] [TransactionService] Transaction #10202 completed successfully - Total: $29.98
+2025-11-12 15:42:29.990 [ERROR] [OrderService] Payment gateway error for transaction #10202: Connection timeout
+2025-11-12 19:48:41.768 [WARN] [TransactionService] High transaction volume detected in Europe: 165 orders/minute
+2025-11-12 14:27:36.201 [INFO] [NotificationService] Shipping label generated for transaction #10237 to Asia
+2025-11-12 02:57:09.272 [INFO] [PaymentService] Stock updated for product 'The Nightingale by Kristin Hannah': -2 units
+2025-11-12 13:38:08.528 [WARN] [NotificationService] Payment processing delay for transaction #10238: 5 seconds
+2025-11-12 08:44:10.243 [INFO] [OrderService] Stock updated for product 'Fitbit Luxe': -2 units
+2025-11-12 11:21:46.384 [INFO] [TransactionService] Processing order #10234 - Hydro Flask Standard Mouth Water Bottle x3
+2025-11-12 21:01:11.472 [ERROR] [TransactionService] Inventory check failed for product 'Hydro Flask Standard Mouth Water Bottle': Database timeout
+2025-11-12 21:49:33.336 [INFO] [ShippingService] Stock updated for product 'TRX All-in-One Suspension Training System': -1 units
+2025-11-12 02:40:13.793 [INFO] [InventoryService] Payment authorized for transaction #10193: $199.99 via Credit Card
+2025-11-12 20:20:59.133 [INFO] [InventoryService] Payment authorized for transaction #10175: $149.97 via Credit Card
+2025-11-12 11:24:33.612 [INFO] [TransactionService] Order confirmation sent for transaction #10208
+2025-11-12 06:31:19.808 [INFO] [OrderService] Payment authorized for transaction #10184: $25.98 via Credit Card
+2025-11-12 15:35:14.836 [WARN] [PaymentService] High transaction volume detected in North America: 428 orders/minute
+2025-11-12 10:42:09.901 [INFO] [InventoryService] Order confirmation sent for transaction #10203
+2025-11-12 10:27:34.445 [INFO] [PaymentService] Shipping label generated for transaction #10212 to Europe
+2025-11-12 06:21:17.867 [INFO] [NotificationService] Shipping label generated for transaction #10179 to Europe
+2025-11-12 06:53:49.309 [INFO] [TransactionService] Transaction #10200 completed successfully - Total: $99.95
+2025-11-12 02:10:29.622 [INFO] [ShippingService] Stock updated for product 'Tarte Shape Tape Concealer': -1 units
+2025-11-12 10:05:49.872 [WARN] [OrderService] High transaction volume detected in Europe: 291 orders/minute
+2025-11-12 12:56:14.716 [INFO] [NotificationService] Stock updated for product 'Gap 1969 Original Fit Jeans': -3 units
+2025-11-12 02:58:01.033 [INFO] [InventoryService] Order confirmation sent for transaction #10188
+2025-11-12 20:15:29.284 [WARN] [NotificationService] Unusual transaction pattern detected for payment method: PayPal
+2025-11-11 23:08:59.685 [INFO] [PaymentService] Shipping label generated for transaction #10171 to Asia
+2025-11-11 23:17:30.733 [INFO] [OrderService] Inventory check passed for 'Hydro Flask Standard Mouth Water Bottle' in category Sports
+2025-11-12 15:16:07.116 [INFO] [InventoryService] Processing order #10173 - Paula's Choice Skin Perfecting 2% BHA Liquid Exfoliant x1
+2025-11-12 00:19:13.831 [ERROR] [InventoryService] Failed to send order confirmation for transaction #10174: SMTP error
+2025-11-12 11:47:29.757 [INFO] [TransactionService] Stock updated for product 'The Goldfinch by Donna Tartt': -2 units
+2025-11-12 00:46:38.256 [WARN] [InventoryService] Low stock alert for product 'Uniqlo Airism Mesh Boxer Briefs': 4 units remaining
+2025-11-12 16:06:18.284 [INFO] [PaymentService] Processing order #10194 - Breville Smart Coffee Grinder Pro x1
+2025-11-12 02:49:39.148 [ERROR] [PaymentService] Inventory check failed for product 'Nespresso Vertuo Next Coffee and Espresso Maker': Database timeout
+2025-11-12 17:31:45.481 [INFO] [NotificationService] Stock updated for product 'Levi's 511 Slim Fit Jeans': -3 units
+2025-11-12 06:22:52.484 [INFO] [NotificationService] Transaction #10230 completed successfully - Total: $599.00
+2025-11-12 20:48:38.230 [INFO] [NotificationService] Processing order #10233 - Fresh Sugar Lip Treatment x1
+2025-11-12 10:07:33.633 [INFO] [TransactionService] Shipping label generated for transaction #10214 to North America
+2025-11-12 19:36:07.857 [INFO] [TransactionService] Shipping label generated for transaction #10193 to North America
+2025-11-12 18:28:03.396 [ERROR] [OrderService] Payment declined for transaction #10171: Insufficient funds
+2025-11-12 20:58:00.568 [WARN] [NotificationService] Product 'Dr. Jart+ Cicapair Tiger Grass Color Correcting Treatment' approaching reorder point in Europe
+2025-11-12 16:08:44.888 [INFO] [TransactionService] Payment authorized for transaction #10175: $149.97 via Credit Card
+2025-11-11 23:39:52.443 [INFO] [TransactionService] Payment authorized for transaction #10203: $52.00 via PayPal
+2025-11-12 16:13:52.595 [INFO] [OrderService] Payment authorized for transaction #10227: $6.70 via PayPal
+2025-11-12 16:04:53.367 [INFO] [OrderService] Shipping label generated for transaction #10189 to Asia
+2025-11-12 04:08:41.317 [INFO] [PaymentService] Inventory check passed for 'Instant Pot Duo Evo Plus' in category Home Appliances
+2025-11-12 16:39:17.795 [INFO] [OrderService] Processing order #10209 - Caudalie Vinoperfect Radiance Serum x1
+2025-11-12 00:40:53.401 [WARN] [OrderService] Product 'Fresh Sugar Lip Treatment' approaching reorder point in Europe
+2025-11-12 12:39:14.177 [INFO] [PaymentService] Inventory check passed for 'Garmin Forerunner 945' in category Sports
+2025-11-12 07:39:06.305 [ERROR] [InventoryService] Payment declined for transaction #10177: Insufficient funds
+2025-11-12 18:55:11.612 [INFO] [NotificationService] Stock updated for product 'Crock-Pot 6-Quart Slow Cooker': -2 units
+2025-11-11 22:51:35.229 [INFO] [PaymentService] Order confirmation sent for transaction #10170
+2025-11-12 00:20:12.211 [WARN] [PaymentService] Payment processing delay for transaction #10240: 2 seconds
+2025-11-12 21:25:05.046 [ERROR] [OrderService] Failed to send order confirmation for transaction #10197: SMTP error
+2025-11-12 09:47:41.433 [INFO] [InventoryService] Order confirmation sent for transaction #10202
+2025-11-12 01:44:00.217 [WARN] [OrderService] Unusual transaction pattern detected for payment method: PayPal
+2025-11-12 21:48:39.191 [INFO] [TransactionService] Order confirmation sent for transaction #10202
+2025-11-12 13:18:29.120 [INFO] [NotificationService] Transaction #10219 completed successfully - Total: $149.97
+2025-11-12 18:55:37.622 [INFO] [NotificationService] Inventory check passed for 'Tom Ford Black Orchid Perfume' in category Beauty Products
+2025-11-12 12:39:20.508 [INFO] [NotificationService] Processing order #10175 - Amazon Fire TV Stick 4K x3
+2025-11-12 20:35:42.016 [INFO] [InventoryService] Payment authorized for transaction #10191: $18.00 via PayPal
+2025-11-12 17:48:19.668 [INFO] [InventoryService] Shipping label generated for transaction #10220 to North America
+2025-11-12 18:17:48.831 [INFO] [TransactionService] Transaction #10195 completed successfully - Total: $359.98
+2025-11-12 11:50:39.215 [INFO] [ShippingService] Transaction #10196 completed successfully - Total: $23.98
+2025-11-12 19:19:20.602 [WARN] [OrderService] High transaction volume detected in North America: 187 orders/minute
+2025-11-12 15:39:15.378 [INFO] [InventoryService] Processing order #10208 - The Great Alone by Kristin Hannah x3
+2025-11-11 23:19:57.286 [INFO] [TransactionService] Order confirmation sent for transaction #10202
+2025-11-12 00:48:11.858 [WARN] [OrderService] High transaction volume detected in Asia: 483 orders/minute
+2025-11-12 12:16:54.285 [INFO] [TransactionService] Processing order #10196 - The Road by Cormac McCarthy x2
+2025-11-12 18:56:38.396 [WARN] [ShippingService] Low stock alert for product 'Polar Vantage V2': 9 units remaining
+2025-11-12 07:47:52.358 [INFO] [ShippingService] Processing order #10212 - Keurig K-Elite Coffee Maker x2
+2025-11-12 20:47:06.068 [INFO] [OrderService] Stock updated for product 'KitchenAid Stand Mixer': -1 units
+2025-11-12 00:49:54.534 [INFO] [OrderService] Payment authorized for transaction #10181: $649.99 via Credit Card
+2025-11-12 00:44:49.659 [ERROR] [TransactionService] Inventory check failed for product 'Hydro Flask Standard Mouth Water Bottle': Database timeout
+2025-11-12 17:40:39.399 [INFO] [InventoryService] Stock updated for product 'Lululemon Wunder Under High-Rise Leggings': -2 units
+2025-11-12 17:56:25.930 [INFO] [OrderService] Inventory check passed for 'The Ordinary Caffeine Solution 5% + EGCG' in category Beauty Products
+2025-11-12 15:07:03.754 [INFO] [OrderService] Shipping label generated for transaction #10189 to Asia
+2025-11-12 06:49:34.315 [INFO] [ShippingService] Payment authorized for transaction #10188: $398.00 via PayPal
+2025-11-12 08:52:13.636 [WARN] [PaymentService] High transaction volume detected in North America: 149 orders/minute
+2025-11-12 15:27:49.203 [INFO] [TransactionService] Transaction #10194 completed successfully - Total: $199.95
+2025-11-11 23:32:04.079 [INFO] [InventoryService] Shipping label generated for transaction #10169 to North America
+2025-11-12 21:21:04.676 [INFO] [NotificationService] Stock updated for product 'Gap 1969 Original Fit Jeans': -3 units
+2025-11-12 15:10:44.953 [WARN] [NotificationService] Product 'Samsung Odyssey G7 Gaming Monitor' approaching reorder point in North America
+2025-11-12 06:36:56.131 [WARN] [ShippingService] High transaction volume detected in North America: 310 orders/minute
+2025-11-12 09:44:31.368 [INFO] [OrderService] Payment authorized for transaction #10211: $749.99 via Credit Card
+2025-11-12 20:04:48.874 [ERROR] [PaymentService] Inventory check failed for product 'Nike Air Force 1 Sneakers': Database timeout
+2025-11-12 05:14:06.527 [INFO] [NotificationService] Processing order #10230 - Anova Precision Oven x1
+2025-11-12 05:10:19.570 [INFO] [NotificationService] Stock updated for product 'KitchenAid Stand Mixer': -1 units
+2025-11-12 04:54:40.397 [INFO] [NotificationService] Inventory check passed for 'Bose QuietComfort 35 II Wireless Headphones' in category Electronics
+2025-11-12 22:14:11.217 [INFO] [NotificationService] Processing order #10240 - Yeti Rambler 20 oz Tumbler x2
+2025-11-12 14:41:36.033 [INFO] [ShippingService] Inventory check passed for 'Sonos Beam Soundbar' in category Electronics
+2025-11-12 12:19:05.787 [WARN] [PaymentService] Payment processing delay for transaction #10189: 2 seconds
+2025-11-12 16:50:18.708 [INFO] [TransactionService] Inventory check passed for 'Dune by Frank Herbert' in category Books
+2025-11-12 08:17:07.269 [INFO] [InventoryService] Inventory check passed for 'Anova Precision Oven' in category Home Appliances
+2025-11-12 06:23:36.206 [INFO] [NotificationService] Processing order #10218 - iRobot Braava Jet M6 x1
+2025-11-12 02:48:27.472 [INFO] [OrderService] Transaction #10225 completed successfully - Total: $89.98
+2025-11-12 14:48:04.521 [ERROR] [TransactionService] Shipping address validation failed for transaction #10202: Invalid postal code
+2025-11-12 06:49:15.197 [INFO] [TransactionService] Processing order #10191 - Glossier Cloud Paint x1
+2025-11-12 10:30:29.658 [WARN] [NotificationService] Unusual transaction pattern detected for payment method: PayPal
+2025-11-12 06:51:18.453 [INFO] [InventoryService] Processing order #10187 - Sonos Beam Soundbar x1
+2025-11-11 23:08:24.848 [INFO] [TransactionService] Stock updated for product 'Anova Precision Cooker': -2 units
+2025-11-12 10:13:58.769 [INFO] [PaymentService] Transaction #10230 completed successfully - Total: $599.00
+2025-11-12 12:41:22.916 [INFO] [InventoryService] Stock updated for product 'Instant Pot Duo Nova': -1 units
+2025-11-11 23:26:58.643 [WARN] [ShippingService] Payment processing delay for transaction #10203: 2 seconds
+2025-11-12 09:05:14.043 [INFO] [OrderService] Transaction #10217 completed successfully - Total: $2399.00
+2025-11-12 12:23:17.895 [INFO] [TransactionService] Inventory check passed for 'Hydro Flask Standard Mouth Water Bottle' in category Sports
+2025-11-12 18:17:13.995 [ERROR] [TransactionService] Payment declined for transaction #10179: Insufficient funds
+2025-11-12 16:16:46.426 [ERROR] [ShippingService] Payment gateway error for transaction #10199: Connection timeout
+2025-11-12 08:49:45.383 [INFO] [PaymentService] Payment authorized for transaction #10190: $32.97 via Credit Card
+2025-11-12 21:04:05.686 [INFO] [PaymentService] Shipping label generated for transaction #10174 to Asia
+2025-11-12 13:59:15.265 [INFO] [NotificationService] Shipping label generated for transaction #10215 to Europe
+2025-11-12 17:10:52.388 [WARN] [TransactionService] Unusual transaction pattern detected for payment method: Credit Card
+2025-11-12 19:09:07.138 [INFO] [PaymentService] Transaction #10187 completed successfully - Total: $399.00
+2025-11-12 18:51:10.042 [ERROR] [ShippingService] Shipping address validation failed for transaction #10188: Invalid postal code
+2025-11-12 02:48:16.438 [INFO] [NotificationService] Payment authorized for transaction #10173: $29.50 via PayPal
+2025-11-12 20:59:35.321 [INFO] [PaymentService] Payment authorized for transaction #10235: $299.00 via Credit Card
+2025-11-12 08:24:11.663 [INFO] [ShippingService] Processing order #10220 - The Nightingale by Kristin Hannah x2
+2025-11-12 19:33:17.214 [INFO] [ShippingService] Payment authorized for transaction #10209: $79.00 via PayPal
+2025-11-12 02:32:47.675 [INFO] [TransactionService] Transaction #10181 completed successfully - Total: $649.99
+2025-11-12 16:12:38.933 [INFO] [InventoryService] Shipping label generated for transaction #10220 to North America
+2025-11-12 07:03:39.821 [INFO] [NotificationService] Order confirmation sent for transaction #10203
+2025-11-12 12:19:22.046 [INFO] [OrderService] Payment authorized for transaction #10174: $699.99 via Credit Card
+2025-11-12 14:25:55.814 [WARN] [TransactionService] High transaction volume detected in Asia: 252 orders/minute
+2025-11-12 12:22:25.387 [INFO] [NotificationService] Processing order #10230 - Anova Precision Oven x1
+2025-11-12 14:32:37.726 [INFO] [OrderService] Shipping label generated for transaction #10225 to Asia
+2025-11-12 17:13:08.818 [INFO] [ShippingService] Stock updated for product 'Apple TV 4K': -2 units
+2025-11-12 04:27:52.961 [WARN] [InventoryService] Low stock alert for product 'Nike Tempo Running Shorts': 1 units remaining
+2025-11-12 07:11:55.267 [INFO] [OrderService] Payment authorized for transaction #10231: $259.96 via Debit Card
+2025-11-12 01:50:18.423 [WARN] [TransactionService] Product 'Hydro Flask Standard Mouth Water Bottle' approaching reorder point in Asia
+2025-11-12 04:14:43.831 [INFO] [InventoryService] Order confirmation sent for transaction #10206
+2025-11-12 08:48:27.491 [ERROR] [OrderService] Inventory check failed for product 'Anova Precision Cooker': Database timeout
+2025-11-12 00:17:07.391 [INFO] [PaymentService] Transaction #10209 completed successfully - Total: $79.00
+2025-11-12 22:01:00.229 [INFO] [OrderService] Transaction #10194 completed successfully - Total: $199.95
+2025-11-12 10:58:03.508 [INFO] [InventoryService] Transaction #10192 completed successfully - Total: $169.95
+2025-11-12 18:03:09.468 [INFO] [InventoryService] Processing order #10200 - Instant Pot Duo Nova x1
+2025-11-12 04:02:56.690 [INFO] [ShippingService] Order confirmation sent for transaction #10202
+2025-11-11 23:08:37.317 [WARN] [TransactionService] Unusual transaction pattern detected for payment method: Credit Card
+2025-11-12 08:20:33.944 [INFO] [PaymentService] Order confirmation sent for transaction #10206
+2025-11-12 14:00:15.866 [INFO] [OrderService] Stock updated for product 'Nike Air Force 1 Sneakers': -3 units
+2025-11-12 01:07:29.363 [WARN] [InventoryService] Low stock alert for product 'First Aid Beauty Ultra Repair Cream': 6 units remaining
+2025-11-12 21:47:46.894 [WARN] [InventoryService] Unusual transaction pattern detected for payment method: Credit Card
+2025-11-12 13:07:57.982 [ERROR] [InventoryService] Inventory check failed for product 'Nike Dri-FIT Training Shorts': Database timeout
+2025-11-12 01:05:37.006 [INFO] [TransactionService] Inventory check passed for 'Samsung Odyssey G7 Gaming Monitor' in category Electronics
+2025-11-11 23:22:12.732 [ERROR] [TransactionService] Payment gateway error for transaction #10228: Connection timeout
+2025-11-12 22:17:50.535 [INFO] [NotificationService] Processing order #10211 - Canon EOS Rebel T7i DSLR Camera x1
+2025-11-12 16:19:12.894 [INFO] [InventoryService] Stock updated for product 'Adidas Ultraboost Running Shoes': -2 units
+2025-11-12 12:50:45.016 [INFO] [OrderService] Processing order #10225 - Old Navy Mid-Rise Rockstar Super Skinny Jeans x2
+2025-11-12 01:15:33.613 [INFO] [PaymentService] Shipping label generated for transaction #10215 to Europe
+2025-11-12 05:34:18.480 [ERROR] [NotificationService] Failed to send order confirmation for transaction #10184: SMTP error
+2025-11-12 13:38:19.075 [WARN] [PaymentService] Low stock alert for product 'Sunday Riley Luna Sleeping Night Oil': 2 units remaining
+2025-11-12 16:13:22.238 [ERROR] [OrderService] Payment declined for transaction #10187: Insufficient funds
+2025-11-12 14:26:39.900 [INFO] [ShippingService] Transaction #10169 completed successfully - Total: $699.99
+2025-11-12 18:31:49.039 [WARN] [ShippingService] Product 'Sonos Beam Soundbar' approaching reorder point in North America
+2025-11-11 22:47:48.499 [INFO] [InventoryService] Shipping label generated for transaction #10232 to North America
+2025-11-11 23:22:19.203 [INFO] [PaymentService] Payment authorized for transaction #10212: $339.98 via PayPal
+2025-11-12 14:20:22.067 [INFO] [ShippingService] Stock updated for product 'Amazon Fire TV Stick 4K': -3 units
+2025-11-12 15:53:10.641 [INFO] [InventoryService] Transaction #10184 completed successfully - Total: $25.98
+2025-11-11 23:03:13.626 [INFO] [InventoryService] Payment authorized for transaction #10209: $79.00 via PayPal
+2025-11-12 22:34:34.165 [INFO] [TransactionService] Shipping label generated for transaction #10178 to North America
+2025-11-12 05:19:43.848 [INFO] [PaymentService] Shipping label generated for transaction #10210 to Asia
+2025-11-12 18:29:18.437 [INFO] [ShippingService] Transaction #10198 completed successfully - Total: $449.99
+2025-11-12 06:16:14.310 [INFO] [ShippingService] Order confirmation sent for transaction #10194
+2025-11-12 00:56:31.271 [INFO] [ShippingService] Transaction #10217 completed successfully - Total: $2399.00
+2025-11-12 10:28:07.319 [ERROR] [NotificationService] Payment gateway error for transaction #10194: Connection timeout
+2025-11-12 07:04:10.399 [INFO] [NotificationService] Shipping label generated for transaction #10224 to Europe
+2025-11-12 14:53:19.579 [WARN] [ShippingService] Unusual transaction pattern detected for payment method: Credit Card
+2025-11-12 13:49:09.407 [INFO] [ShippingService] Transaction #10229 completed successfully - Total: $169.00
+2025-11-12 08:31:30.164 [INFO] [TransactionService] Order confirmation sent for transaction #10183
+2025-11-12 04:59:45.517 [INFO] [TransactionService] Stock updated for product 'L'Occitane Shea Butter Hand Cream': -2 units
+2025-11-12 15:14:29.822 [INFO] [ShippingService] Shipping label generated for transaction #10186 to Asia
+2025-11-12 06:28:47.749 [INFO] [PaymentService] Inventory check passed for 'Adidas Originals Trefoil Hoodie' in category Clothing
+2025-11-12 08:49:02.632 [INFO] [OrderService] Transaction #10217 completed successfully - Total: $2399.00
+2025-11-12 17:51:34.890 [INFO] [ShippingService] Inventory check passed for 'The Catcher in the Rye by J.D. Salinger' in category Books
+2025-11-12 10:26:55.700 [INFO] [ShippingService] Order confirmation sent for transaction #10228
+2025-11-12 09:06:42.520 [INFO] [PaymentService] Shipping label generated for transaction #10213 to Asia
+2025-11-12 17:34:50.001 [INFO] [TransactionService] Inventory check passed for 'Instant Pot Duo Evo Plus' in category Home Appliances
+2025-11-12 00:17:30.350 [ERROR] [ShippingService] Shipping address validation failed for transaction #10230: Invalid postal code
+2025-11-12 08:40:19.381 [INFO] [InventoryService] Inventory check passed for 'The Silent Patient by Alex Michaelides' in category Books
+2025-11-12 14:07:01.008 [INFO] [PaymentService] Stock updated for product 'Bowflex SelectTech 1090 Adjustable Dumbbells': -1 units
+2025-11-12 15:43:04.915 [INFO] [InventoryService] Order confirmation sent for transaction #10215
+2025-11-12 13:09:20.924 [INFO] [PaymentService] Transaction #10230 completed successfully - Total: $599.00
+2025-11-12 14:04:23.658 [INFO] [NotificationService] Shipping label generated for transaction #10171 to Asia
+2025-11-12 03:45:54.975 [INFO] [TransactionService] Shipping label generated for transaction #10227 to Europe
+2025-11-12 20:48:33.315 [WARN] [NotificationService] Unusual transaction pattern detected for payment method: PayPal
+2025-11-12 16:16:14.343 [INFO] [PaymentService] Inventory check passed for 'Anova Precision Cooker' in category Home Appliances
+2025-11-12 22:02:12.074 [INFO] [PaymentService] Transaction #10171 completed successfully - Total: $104.97
+2025-11-12 18:58:00.234 [WARN] [PaymentService] Product 'The Catcher in the Rye by J.D. Salinger' approaching reorder point in North America
+2025-11-12 01:15:56.996 [INFO] [InventoryService] Processing order #10197 - Tom Ford Black Orchid Perfume x1
+2025-11-12 14:07:04.302 [WARN] [PaymentService] High transaction volume detected in Asia: 490 orders/minute
+2025-11-12 11:01:21.116 [ERROR] [ShippingService] Failed to send order confirmation for transaction #10215: SMTP error
+2025-11-12 20:05:27.331 [INFO] [TransactionService] Payment authorized for transaction #10202: $29.98 via Credit Card
+2025-11-12 02:32:31.178 [INFO] [TransactionService] Shipping label generated for transaction #10178 to North America
+2025-11-12 08:09:28.732 [WARN] [NotificationService] Low stock alert for product 'The Catcher in the Rye by J.D. Salinger': 6 units remaining
+2025-11-12 08:43:38.839 [INFO] [ShippingService] Processing order #10177 - Uniqlo Airism Mesh Boxer Briefs x4
+2025-11-12 22:38:11.380 [WARN] [OrderService] Low stock alert for product 'Nike Air Force 1 Sneakers': 7 units remaining
+2025-11-12 01:02:15.817 [INFO] [OrderService] Stock updated for product 'The Girl with the Dragon Tattoo by Stieg Larsson': -3 units
+2025-11-12 01:34:37.380 [WARN] [OrderService] Unusual transaction pattern detected for payment method: PayPal
+2025-11-11 23:40:53.096 [INFO] [InventoryService] Processing order #10237 - Nike Air Force 1 Sneakers x3
+2025-11-12 12:50:05.046 [WARN] [NotificationService] Low stock alert for product 'Instant Pot Duo Evo Plus': 2 units remaining
+2025-11-12 05:45:06.914 [INFO] [ShippingService] Shipping label generated for transaction #10237 to Asia
+2025-11-12 21:47:32.706 [INFO] [NotificationService] Shipping label generated for transaction #10232 to North America
+2025-11-12 21:20:08.968 [WARN] [ShippingService] Unusual transaction pattern detected for payment method: Credit Card
+2025-11-12 05:34:59.891 [WARN] [InventoryService] Low stock alert for product 'Fresh Sugar Lip Treatment': 6 units remaining
+2025-11-12 21:14:19.943 [WARN] [InventoryService] Low stock alert for product 'Hydro Flask Standard Mouth Water Bottle': 6 units remaining
+2025-11-12 22:38:34.061 [ERROR] [OrderService] Payment declined for transaction #10201: Insufficient funds
+2025-11-12 06:52:08.007 [INFO] [ShippingService] Shipping label generated for transaction #10219 to Asia
+2025-11-12 20:01:26.218 [ERROR] [ShippingService] Failed to send order confirmation for transaction #10177: SMTP error
+2025-11-12 09:36:21.177 [INFO] [NotificationService] Inventory check passed for 'Lululemon Wunder Under High-Rise Leggings' in category Clothing
+2025-11-12 07:56:50.041 [WARN] [ShippingService] Product 'Breville Smart Coffee Grinder Pro' approaching reorder point in Europe
+2025-11-11 23:35:20.223 [INFO] [ShippingService] Order confirmation sent for transaction #10173
+2025-11-12 13:41:36.675 [INFO] [PaymentService] Inventory check passed for 'Bowflex SelectTech 1090 Adjustable Dumbbells' in category Sports
+2025-11-12 00:45:31.426 [INFO] [OrderService] Shipping label generated for transaction #10184 to North America
+2025-11-12 08:01:47.958 [WARN] [InventoryService] Product 'Nespresso Vertuo Next Coffee and Espresso Maker' approaching reorder point in Europe
+2025-11-12 01:55:08.079 [INFO] [InventoryService] Shipping label generated for transaction #10199 to North America
+2025-11-12 17:19:45.950 [INFO] [InventoryService] Transaction #10211 completed successfully - Total: $749.99
+2025-11-12 20:20:14.259 [INFO] [NotificationService] Payment authorized for transaction #10239: $55.00 via PayPal
+2025-11-12 01:30:09.876 [INFO] [PaymentService] Inventory check passed for 'Champion Reverse Weave Hoodie' in category Clothing
+2025-11-12 08:18:24.034 [WARN] [ShippingService] Product 'The Road by Cormac McCarthy' approaching reorder point in North America
+2025-11-12 21:22:26.468 [INFO] [InventoryService] Payment authorized for transaction #10209: $79.00 via PayPal
+2025-11-12 12:55:20.654 [INFO] [OrderService] Payment authorized for transaction #10200: $99.95 via PayPal
+2025-11-12 12:10:08.886 [INFO] [ShippingService] Transaction #10234 completed successfully - Total: $98.85
+2025-11-12 01:05:42.500 [INFO] [InventoryService] Transaction #10196 completed successfully - Total: $23.98
+2025-11-12 05:27:27.395 [INFO] [TransactionService] Shipping label generated for transaction #10203 to Europe
+2025-11-12 20:00:27.433 [INFO] [TransactionService] Stock updated for product 'The Goldfinch by Donna Tartt': -2 units
+2025-11-12 17:56:38.752 [INFO] [ShippingService] Stock updated for product 'Instant Pot Duo Evo Plus': -2 units
+2025-11-12 21:40:19.412 [WARN] [InventoryService] Product 'Uniqlo Airism Seamless Boxer Briefs' approaching reorder point in Asia
+2025-11-12 00:31:45.401 [INFO] [OrderService] Payment authorized for transaction #10232: $19.98 via Credit Card
+2025-11-12 16:52:18.763 [INFO] [TransactionService] Payment authorized for transaction #10186: $499.95 via Credit Card
+2025-11-12 21:27:16.702 [INFO] [PaymentService] Inventory check passed for 'The Silent Patient by Alex Michaelides' in category Books
+2025-11-12 19:59:34.629 [ERROR] [OrderService] Shipping address validation failed for transaction #10174: Invalid postal code
+2025-11-12 09:46:36.988 [INFO] [ShippingService] Stock updated for product 'Lululemon Wunder Under High-Rise Leggings': -2 units
+2025-11-12 09:53:09.990 [INFO] [PaymentService] Stock updated for product 'Anova Precision Cooker': -2 units
+2025-11-12 19:33:17.568 [INFO] [OrderService] Processing order #10220 - The Nightingale by Kristin Hannah x2
+2025-11-12 01:00:53.046 [INFO] [NotificationService] Stock updated for product 'The Nightingale by Kristin Hannah': -2 units
+2025-11-12 14:32:29.506 [INFO] [OrderService] Shipping label generated for transaction #10180 to Asia
+2025-11-12 15:03:26.493 [INFO] [PaymentService] Processing order #10179 - First Aid Beauty Ultra Repair Cream x2
+2025-11-12 15:28:53.093 [WARN] [ShippingService] High transaction volume detected in North America: 388 orders/minute
+2025-11-12 09:13:28.340 [ERROR] [TransactionService] Payment declined for transaction #10214: Insufficient funds
+2025-11-12 09:59:51.092 [INFO] [OrderService] Payment authorized for transaction #10212: $339.98 via PayPal
+2025-11-12 17:21:39.179 [WARN] [NotificationService] Unusual transaction pattern detected for payment method: Credit Card
+2025-11-12 19:33:05.119 [ERROR] [PaymentService] Payment declined for transaction #10187: Insufficient funds
+2025-11-12 08:33:58.271 [WARN] [NotificationService] High transaction volume detected in Asia: 434 orders/minute
+2025-11-12 13:10:24.284 [INFO] [TransactionService] Order confirmation sent for transaction #10214
+2025-11-12 22:19:36.122 [ERROR] [PaymentService] Payment declined for transaction #10240: Insufficient funds
+2025-11-12 20:22:53.739 [INFO] [NotificationService] Transaction #10182 completed successfully - Total: $399.99
+2025-11-11 23:18:27.248 [INFO] [NotificationService] Transaction #10203 completed successfully - Total: $52.00
+2025-11-12 10:05:39.345 [WARN] [OrderService] High transaction volume detected in Asia: 158 orders/minute
+2025-11-12 14:49:29.270 [INFO] [OrderService] Shipping label generated for transaction #10199 to North America
+2025-11-12 16:32:24.405 [INFO] [TransactionService] Order confirmation sent for transaction #10190
+2025-11-12 20:44:36.204 [INFO] [PaymentService] Inventory check passed for 'Fresh Sugar Lip Treatment' in category Beauty Products
+2025-11-12 02:26:23.134 [INFO] [TransactionService] Processing order #10169 - Samsung Odyssey G7 Gaming Monitor x1
+2025-11-12 11:12:49.218 [INFO] [InventoryService] Stock updated for product 'Caudalie Vinoperfect Radiance Serum': -1 units
+2025-11-12 06:33:12.526 [INFO] [TransactionService] Stock updated for product 'Keurig K-Elite Coffee Maker': -2 units
+2025-11-12 20:51:08.773 [ERROR] [InventoryService] Failed to send order confirmation for transaction #10185: SMTP error
+2025-11-12 05:47:12.163 [INFO] [PaymentService] Transaction #10174 completed successfully - Total: $699.99
+2025-11-12 16:34:25.735 [INFO] [PaymentService] Inventory check passed for 'La Mer Crème de la Mer Moisturizer' in category Beauty Products
+2025-11-12 03:08:19.725 [INFO] [OrderService] Stock updated for product 'Amazon Echo Dot (4th Gen)': -4 units
+2025-11-12 15:59:00.946 [ERROR] [PaymentService] Failed to send order confirmation for transaction #10183: SMTP error
+2025-11-12 07:51:42.958 [WARN] [TransactionService] Payment processing delay for transaction #10181: 4 seconds
+2025-11-12 16:34:15.735 [INFO] [ShippingService] Stock updated for product 'Polar Vantage V2': -1 units
+2025-11-12 13:05:47.882 [INFO] [InventoryService] Processing order #10220 - The Nightingale by Kristin Hannah x2
+2025-11-12 12:56:45.465 [INFO] [OrderService] Transaction #10239 completed successfully - Total: $55.00
+2025-11-12 01:09:34.148 [INFO] [NotificationService] Shipping label generated for transaction #10192 to Asia
+2025-11-12 10:49:17.964 [INFO] [ShippingService] Processing order #10209 - Caudalie Vinoperfect Radiance Serum x1
+2025-11-12 18:04:43.595 [INFO] [NotificationService] Transaction #10228 completed successfully - Total: $299.90
+2025-11-12 08:00:43.305 [INFO] [TransactionService] Payment authorized for transaction #10226: $80.97 via Credit Card
+2025-11-12 12:45:24.745 [INFO] [ShippingService] Stock updated for product 'The Martian by Andy Weir': -2 units
+2025-11-12 14:19:09.760 [INFO] [PaymentService] Payment authorized for transaction #10223: $199.96 via Credit Card
+2025-11-12 11:12:53.152 [WARN] [InventoryService] Product 'Dyson V8 Absolute' approaching reorder point in Europe
+2025-11-12 05:13:07.370 [WARN] [ShippingService] Product 'Hydro Flask Standard Mouth Water Bottle' approaching reorder point in Asia
+2025-11-12 06:07:57.509 [WARN] [OrderService] High transaction volume detected in Asia: 231 orders/minute
+2025-11-12 16:54:51.698 [INFO] [ShippingService] Payment authorized for transaction #10192: $169.95 via Credit Card
+2025-11-11 23:40:12.927 [INFO] [PaymentService] Inventory check passed for 'L'Occitane Shea Butter Hand Cream' in category Beauty Products
+2025-11-12 07:44:57.986 [INFO] [ShippingService] Processing order #10198 - GoPro HERO9 Black x1
+2025-11-12 12:47:26.912 [INFO] [PaymentService] Inventory check passed for 'Sunday Riley Luna Sleeping Night Oil' in category Beauty Products
+2025-11-12 17:48:15.596 [INFO] [ShippingService] Processing order #10240 - Yeti Rambler 20 oz Tumbler x2
+2025-11-12 08:03:35.069 [INFO] [OrderService] Processing order #10180 - Oakley Holbrook Sunglasses x1
+2025-11-12 04:34:47.885 [WARN] [InventoryService] High transaction volume detected in Europe: 100 orders/minute
+2025-11-12 05:10:36.218 [INFO] [OrderService] Stock updated for product 'The Handmaid's Tale by Margaret Atwood': -3 units
+2025-11-12 01:27:40.467 [WARN] [PaymentService] Unusual transaction pattern detected for payment method: Credit Card
+2025-11-12 02:05:05.222 [INFO] [TransactionService] Order confirmation sent for transaction #10176
+2025-11-12 01:53:38.984 [WARN] [InventoryService] Product 'The Girl with the Dragon Tattoo by Stieg Larsson' approaching reorder point in North America
+2025-11-12 00:13:46.547 [INFO] [InventoryService] Transaction #10223 completed successfully - Total: $199.96
+2025-11-12 05:53:01.024 [INFO] [NotificationService] Payment authorized for transaction #10224: $459.98 via PayPal
+2025-11-11 23:24:03.032 [INFO] [NotificationService] Order confirmation sent for transaction #10176
+2025-11-12 14:37:43.676 [INFO] [ShippingService] Payment authorized for transaction #10171: $104.97 via Debit Card
+2025-11-12 17:47:25.668 [INFO] [OrderService] Shipping label generated for transaction #10234 to Asia
+2025-11-12 11:28:01.938 [INFO] [TransactionService] Order confirmation sent for transaction #10215
+2025-11-12 14:57:57.972 [WARN] [InventoryService] Low stock alert for product 'Uniqlo Airism Seamless Boxer Briefs': 6 units remaining
+2025-11-12 17:14:10.994 [INFO] [TransactionService] Transaction #10240 completed successfully - Total: $59.98
+2025-11-12 13:40:49.689 [INFO] [ShippingService] Processing order #10201 - Gap 1969 Original Fit Jeans x3
+2025-11-12 19:42:55.135 [INFO] [InventoryService] Order confirmation sent for transaction #10238
+2025-11-12 12:46:13.688 [INFO] [OrderService] Payment authorized for transaction #10200: $99.95 via PayPal
+2025-11-12 10:48:46.035 [INFO] [TransactionService] Shipping label generated for transaction #10218 to Europe
+2025-11-12 03:44:57.251 [INFO] [PaymentService] Shipping label generated for transaction #10222 to Asia
+2025-11-12 00:03:18.055 [ERROR] [InventoryService] Payment declined for transaction #10177: Insufficient funds
+2025-11-12 18:58:29.174 [ERROR] [OrderService] Inventory check failed for product 'Uniqlo Airism Mesh Boxer Briefs': Database timeout
+2025-11-12 16:31:06.978 [INFO] [InventoryService] Processing order #10205 - Samsung Galaxy Watch 4 x1
+2025-11-12 01:17:38.587 [INFO] [ShippingService] Shipping label generated for transaction #10176 to Europe
+2025-11-12 04:48:02.121 [INFO] [PaymentService] Shipping label generated for transaction #10234 to Asia
+2025-11-12 14:00:52.717 [INFO] [PaymentService] Processing order #10222 - Garmin Forerunner 945 x1
+2025-11-12 19:58:42.994 [INFO] [InventoryService] Payment authorized for transaction #10223: $199.96 via Credit Card
+2025-11-12 01:47:26.951 [WARN] [NotificationService] Product 'YETI Tundra 65 Cooler' approaching reorder point in Asia
+2025-11-12 08:27:27.275 [INFO] [OrderService] Shipping label generated for transaction #10220 to North America
+2025-11-12 10:46:37.691 [INFO] [InventoryService] Transaction #10209 completed successfully - Total: $79.00
+2025-11-12 09:12:50.839 [INFO] [PaymentService] Transaction #10233 completed successfully - Total: $24.00
+2025-11-12 17:11:24.456 [INFO] [NotificationService] Order confirmation sent for transaction #10239
+2025-11-12 07:05:30.448 [INFO] [OrderService] Order confirmation sent for transaction #10169
+2025-11-12 11:18:03.087 [INFO] [NotificationService] Inventory check passed for 'Amazon Echo Dot (4th Gen)' in category Electronics
+2025-11-11 23:48:06.017 [INFO] [ShippingService] Shipping label generated for transaction #10229 to North America
+2025-11-12 10:24:37.508 [INFO] [InventoryService] Shipping label generated for transaction #10194 to Europe
+2025-11-12 18:16:55.496 [INFO] [NotificationService] Order confirmation sent for transaction #10240
+2025-11-12 03:22:51.328 [WARN] [ShippingService] Unusual transaction pattern detected for payment method: Credit Card
+2025-11-12 10:55:43.051 [ERROR] [TransactionService] Failed to send order confirmation for transaction #10172: SMTP error
+2025-11-12 01:34:33.359 [INFO] [NotificationService] Shipping label generated for transaction #10183 to Asia
+2025-11-12 05:52:53.051 [INFO] [ShippingService] Shipping label generated for transaction #10193 to North America
+2025-11-12 01:11:22.289 [WARN] [InventoryService] High transaction volume detected in North America: 484 orders/minute
+2025-11-12 01:10:18.296 [INFO] [PaymentService] Processing order #10178 - The Sun Also Rises by Ernest Hemingway x3
+2025-11-12 01:24:05.417 [INFO] [InventoryService] Order confirmation sent for transaction #10198
+2025-11-12 18:37:15.188 [WARN] [PaymentService] Unusual transaction pattern detected for payment method: Credit Card
+2025-11-12 22:15:17.328 [INFO] [TransactionService] Order confirmation sent for transaction #10193
+2025-11-12 18:10:42.987 [INFO] [NotificationService] Processing order #10203 - Dr. Jart+ Cicapair Tiger Grass Color Correcting Treatment x1
+2025-11-12 19:06:36.824 [INFO] [InventoryService] Shipping label generated for transaction #10226 to North America
+2025-11-12 16:56:10.572 [INFO] [OrderService] Order confirmation sent for transaction #10181
+2025-11-12 06:33:31.827 [INFO] [TransactionService] Order confirmation sent for transaction #10177
+2025-11-12 02:59:29.495 [INFO] [PaymentService] Order confirmation sent for transaction #10176
+2025-11-12 19:11:11.736 [INFO] [TransactionService] Processing order #10239 - Sunday Riley Luna Sleeping Night Oil x1
+2025-11-12 03:05:26.827 [INFO] [NotificationService] Order confirmation sent for transaction #10194
+2025-11-12 16:53:08.032 [ERROR] [TransactionService] Shipping address validation failed for transaction #10233: Invalid postal code
+2025-11-12 20:17:36.566 [ERROR] [OrderService] Inventory check failed for product 'The Catcher in the Rye by J.D. Salinger': Database timeout
+2025-11-12 12:55:09.771 [ERROR] [PaymentService] Payment declined for transaction #10191: Insufficient funds
+2025-11-12 07:45:09.118 [INFO] [OrderService] Transaction #10235 completed successfully - Total: $299.00
+2025-11-12 05:11:15.203 [INFO] [OrderService] Shipping label generated for transaction #10219 to Asia
+2025-11-12 00:59:37.691 [INFO] [ShippingService] Processing order #10229 - Google Nest Wifi Router x1
+2025-11-11 23:47:42.995 [INFO] [InventoryService] Shipping label generated for transaction #10174 to Asia
+2025-11-12 09:51:54.049 [INFO] [OrderService] Processing order #10189 - Nike Dri-FIT Training Shorts x4
+2025-11-12 12:57:35.672 [INFO] [ShippingService] Stock updated for product 'Nike Tempo Running Shorts': -3 units
+2025-11-12 06:42:29.124 [INFO] [TransactionService] Transaction #10174 completed successfully - Total: $699.99
+2025-11-12 04:47:29.521 [INFO] [NotificationService] Inventory check passed for 'Fitbit Luxe' in category Sports
+2025-11-12 17:25:15.774 [INFO] [ShippingService] Order confirmation sent for transaction #10206
+2025-11-12 08:34:51.921 [WARN] [TransactionService] Unusual transaction pattern detected for payment method: PayPal
+2025-11-12 16:04:47.782 [ERROR] [NotificationService] Shipping address validation failed for transaction #10192: Invalid postal code
+2025-11-12 21:38:29.766 [INFO] [OrderService] Payment authorized for transaction #10232: $19.98 via Credit Card
+2025-11-12 07:28:40.174 [WARN] [OrderService] High transaction volume detected in Europe: 271 orders/minute
+2025-11-12 10:45:07.424 [INFO] [PaymentService] Stock updated for product 'Uniqlo Airism Seamless Boxer Briefs': -4 units
+2025-11-12 08:20:27.935 [ERROR] [NotificationService] Payment declined for transaction #10231: Insufficient funds
+2025-11-12 06:35:30.874 [INFO] [InventoryService] Transaction #10177 completed successfully - Total: $59.60
+2025-11-12 04:15:12.433 [INFO] [TransactionService] Payment authorized for transaction #10216: $349.99 via Credit Card
+2025-11-12 11:33:28.536 [INFO] [PaymentService] Transaction #10185 completed successfully - Total: $190.00
+2025-11-12 00:16:49.630 [WARN] [ShippingService] Low stock alert for product 'Breville Smart Coffee Grinder Pro': 5 units remaining
+2025-11-12 13:57:05.602 [WARN] [PaymentService] Product 'Fresh Sugar Lip Treatment' approaching reorder point in Europe
+2025-11-12 15:42:48.141 [INFO] [InventoryService] Shipping label generated for transaction #10205 to North America
+2025-11-12 07:21:18.324 [INFO] [ShippingService] Processing order #10182 - Dyson V8 Absolute x1
+2025-11-12 08:08:47.862 [INFO] [PaymentService] Transaction #10179 completed successfully - Total: $68.00
+2025-11-12 20:15:55.473 [INFO] [PaymentService] Order confirmation sent for transaction #10202
+2025-11-12 20:22:05.061 [WARN] [NotificationService] Low stock alert for product 'Logitech G Pro X Wireless Gaming Headset': 9 units remaining
+2025-11-12 03:48:40.129 [INFO] [TransactionService] Processing order #10177 - Uniqlo Airism Mesh Boxer Briefs x4
+2025-11-12 09:44:10.027 [INFO] [TransactionService] Stock updated for product 'The Girl with the Dragon Tattoo by Stieg Larsson': -2 units
+2025-11-12 14:44:15.937 [INFO] [PaymentService] Shipping label generated for transaction #10187 to North America
+2025-11-12 09:22:38.683 [INFO] [PaymentService] Processing order #10199 - Apple TV 4K x2
+2025-11-12 19:47:40.319 [INFO] [InventoryService] Stock updated for product 'Apple TV 4K': -2 units
+2025-11-12 14:37:02.142 [ERROR] [PaymentService] Shipping address validation failed for transaction #10186: Invalid postal code
+2025-11-12 20:24:25.813 [WARN] [InventoryService] High transaction volume detected in Asia: 157 orders/minute
+2025-11-12 16:55:28.385 [WARN] [OrderService] Low stock alert for product 'Nike Tempo Running Shorts': 6 units remaining
+2025-11-12 21:52:59.236 [INFO] [InventoryService] Inventory check passed for 'The Catcher in the Rye by J.D. Salinger' in category Books
+2025-11-11 23:08:53.634 [WARN] [TransactionService] Low stock alert for product 'The Great Alone by Kristin Hannah': 3 units remaining
+2025-11-12 10:57:19.663 [WARN] [NotificationService] Payment processing delay for transaction #10206: 5 seconds
+2025-11-12 13:55:24.802 [WARN] [InventoryService] Payment processing delay for transaction #10186: 2 seconds
+2025-11-12 15:02:47.679 [WARN] [TransactionService] High transaction volume detected in Asia: 316 orders/minute
+2025-11-12 00:30:09.489 [INFO] [TransactionService] Shipping label generated for transaction #10230 to Europe
+2025-11-12 04:56:06.486 [INFO] [InventoryService] Inventory check passed for 'Polar Vantage V2' in category Sports
+2025-11-12 19:46:14.677 [ERROR] [InventoryService] Payment declined for transaction #10229: Insufficient funds
+2025-11-12 15:29:18.356 [INFO] [ShippingService] Processing order #10229 - Google Nest Wifi Router x1
+2025-11-12 11:14:03.653 [INFO] [NotificationService] Shipping label generated for transaction #10169 to North America
+2025-11-12 11:28:28.031 [INFO] [ShippingService] Processing order #10175 - Amazon Fire TV Stick 4K x3
+2025-11-12 21:42:40.043 [INFO] [PaymentService] Shipping label generated for transaction #10169 to North America
+2025-11-12 03:55:47.161 [INFO] [InventoryService] Transaction #10180 completed successfully - Total: $146.00
+2025-11-12 03:16:39.669 [INFO] [PaymentService] Inventory check passed for 'Gap 1969 Original Fit Jeans' in category Clothing
+2025-11-12 19:22:27.930 [INFO] [PaymentService] Processing order #10218 - iRobot Braava Jet M6 x1
+2025-11-12 16:51:05.658 [INFO] [PaymentService] Order confirmation sent for transaction #10216
+2025-11-12 04:58:36.196 [INFO] [NotificationService] Inventory check passed for 'Sonos Beam Soundbar' in category Electronics
+2025-11-12 22:14:26.434 [WARN] [OrderService] High transaction volume detected in Asia: 405 orders/minute
+2025-11-12 07:04:57.867 [ERROR] [PaymentService] Payment gateway error for transaction #10188: Connection timeout
+2025-11-12 00:14:30.211 [INFO] [ShippingService] Inventory check passed for 'Apple MacBook Pro 16-inch' in category Electronics
+2025-11-12 14:20:09.447 [WARN] [OrderService] Low stock alert for product 'Champion Reverse Weave Hoodie': 1 units remaining
+2025-11-12 06:26:28.585 [WARN] [InventoryService] Low stock alert for product 'Keurig K-Elite Coffee Maker': 5 units remaining
+2025-11-12 14:51:40.520 [INFO] [NotificationService] Inventory check passed for 'iRobot Braava Jet M6' in category Home Appliances
+2025-11-12 12:05:18.523 [INFO] [NotificationService] Inventory check passed for 'Sunday Riley Luna Sleeping Night Oil' in category Beauty Products
+2025-11-12 06:18:02.822 [INFO] [NotificationService] Stock updated for product 'Fitbit Luxe': -2 units
+2025-11-12 06:02:29.047 [INFO] [NotificationService] Transaction #10240 completed successfully - Total: $59.98
+2025-11-12 02:19:24.616 [INFO] [TransactionService] Order confirmation sent for transaction #10217
+2025-11-12 13:54:03.457 [INFO] [InventoryService] Stock updated for product 'Apple MacBook Pro 16-inch': -1 units
+2025-11-12 12:45:46.313 [INFO] [ShippingService] Transaction #10172 completed successfully - Total: $19.98
+2025-11-11 22:51:14.120 [INFO] [NotificationService] Inventory check passed for 'Philips Sonicare DiamondClean Toothbrush' in category Home Appliances
+2025-11-12 07:36:44.835 [WARN] [OrderService] Low stock alert for product 'The Girl with the Dragon Tattoo by Stieg Larsson': 10 units remaining
+2025-11-12 21:08:32.804 [INFO] [PaymentService] Processing order #10196 - The Road by Cormac McCarthy x2
+2025-11-12 03:15:58.089 [ERROR] [ShippingService] Failed to send order confirmation for transaction #10237: SMTP error
+2025-11-11 23:23:01.177 [INFO] [OrderService] Processing order #10223 - Amazon Echo Dot (4th Gen) x4
+2025-11-12 17:39:38.256 [WARN] [PaymentService] Product 'Nespresso Vertuo Next Coffee and Espresso Maker' approaching reorder point in Europe
+2025-11-12 09:50:30.759 [INFO] [OrderService] Shipping label generated for transaction #10237 to Asia
+2025-11-12 11:27:24.183 [ERROR] [ShippingService] Payment declined for transaction #10240: Insufficient funds
+2025-11-12 20:13:40.308 [ERROR] [InventoryService] Shipping address validation failed for transaction #10207: Invalid postal code
+2025-11-12 21:11:12.538 [INFO] [NotificationService] Processing order #10187 - Sonos Beam Soundbar x1
+2025-11-12 22:29:55.442 [INFO] [PaymentService] Shipping label generated for transaction #10193 to North America
+2025-11-12 17:56:32.850 [INFO] [ShippingService] Inventory check passed for 'The Road by Cormac McCarthy' in category Books
+2025-11-12 12:32:23.719 [INFO] [NotificationService] Processing order #10169 - Samsung Odyssey G7 Gaming Monitor x1
+2025-11-12 05:43:01.934 [ERROR] [NotificationService] Payment declined for transaction #10200: Insufficient funds
+2025-11-12 04:22:00.992 [INFO] [InventoryService] Inventory check passed for 'Uniqlo Airism Seamless Boxer Briefs' in category Clothing
+2025-11-11 22:56:18.989 [INFO] [TransactionService] Shipping label generated for transaction #10176 to Europe
+2025-11-12 00:46:11.930 [INFO] [OrderService] Payment authorized for transaction #10233: $24.00 via PayPal
+2025-11-12 19:39:38.729 [INFO] [PaymentService] Payment authorized for transaction #10174: $699.99 via Credit Card
+2025-11-12 20:43:05.548 [INFO] [PaymentService] Transaction #10194 completed successfully - Total: $199.95
+2025-11-12 11:09:58.748 [INFO] [ShippingService] Order confirmation sent for transaction #10174
+2025-11-12 01:25:42.992 [WARN] [TransactionService] Product 'Nike Tempo Running Shorts' approaching reorder point in Asia
+2025-11-12 18:47:04.324 [INFO] [PaymentService] Stock updated for product 'La Mer Crème de la Mer Moisturizer': -1 units
+2025-11-12 15:25:49.029 [INFO] [InventoryService] Transaction #10205 completed successfully - Total: $299.99
+2025-11-12 00:02:24.929 [INFO] [InventoryService] Order confirmation sent for transaction #10177
+2025-11-12 01:26:41.657 [ERROR] [OrderService] Payment gateway error for transaction #10174: Connection timeout
+2025-11-12 18:13:33.695 [WARN] [ShippingService] Unusual transaction pattern detected for payment method: Credit Card
+2025-11-12 18:50:49.743 [INFO] [PaymentService] Stock updated for product 'L'Occitane Shea Butter Hand Cream': -2 units
+2025-11-12 18:37:35.544 [INFO] [OrderService] Processing order #10227 - The Ordinary Caffeine Solution 5% + EGCG x1
+2025-11-12 13:36:23.571 [WARN] [PaymentService] Low stock alert for product 'Instant Pot Duo Evo Plus': 10 units remaining
+2025-11-12 04:44:23.644 [INFO] [NotificationService] Inventory check passed for 'The Girl with the Dragon Tattoo by Stieg Larsson' in category Books
+2025-11-12 05:30:25.889 [INFO] [ShippingService] Order confirmation sent for transaction #10176
+2025-11-12 12:52:01.064 [INFO] [OrderService] Shipping label generated for transaction #10231 to Asia
+2025-11-12 06:06:08.831 [INFO] [NotificationService] Shipping label generated for transaction #10183 to Asia
+2025-11-12 00:50:10.910 [INFO] [PaymentService] Order confirmation sent for transaction #10171
+2025-11-12 03:32:00.575 [INFO] [ShippingService] Order confirmation sent for transaction #10183
+2025-11-12 12:07:35.252 [INFO] [ShippingService] Processing order #10202 - The Goldfinch by Donna Tartt x2
+2025-11-12 09:20:16.775 [ERROR] [InventoryService] Payment declined for transaction #10214: Insufficient funds
+2025-11-12 04:41:55.311 [INFO] [TransactionService] Transaction #10237 completed successfully - Total: $270.00
+2025-11-12 18:57:19.111 [INFO] [NotificationService] Inventory check passed for 'Amazon Echo Dot (4th Gen)' in category Electronics
+2025-11-12 16:46:16.706 [INFO] [NotificationService] Transaction #10179 completed successfully - Total: $68.00
+2025-11-12 22:17:54.274 [INFO] [TransactionService] Inventory check passed for 'Oakley Holbrook Sunglasses' in category Sports
+2025-11-12 08:29:11.701 [ERROR] [NotificationService] Inventory check failed for product 'Amazon Echo Dot (4th Gen)': Database timeout
+2025-11-12 16:47:54.002 [ERROR] [OrderService] Payment declined for transaction #10238: Insufficient funds
+2025-11-12 02:31:04.660 [INFO] [OrderService] Transaction #10182 completed successfully - Total: $399.99
+2025-11-12 19:28:35.508 [INFO] [OrderService] Stock updated for product 'The Martian by Andy Weir': -2 units
+2025-11-12 17:52:29.255 [INFO] [OrderService] Stock updated for product 'Amazon Fire TV Stick 4K': -3 units
+2025-11-12 05:34:51.673 [INFO] [PaymentService] Stock updated for product 'Canon EOS Rebel T7i DSLR Camera': -1 units
+2025-11-12 06:15:46.366 [INFO] [OrderService] Shipping label generated for transaction #10187 to North America
+2025-11-12 13:24:15.049 [INFO] [TransactionService] Inventory check passed for 'Amazon Echo Dot (4th Gen)' in category Electronics
+2025-11-12 01:20:05.617 [INFO] [NotificationService] Shipping label generated for transaction #10219 to Asia
+2025-11-12 05:45:12.514 [INFO] [InventoryService] Payment authorized for transaction #10180: $146.00 via Credit Card
+2025-11-12 22:26:59.387 [ERROR] [TransactionService] Failed to send order confirmation for transaction #10233: SMTP error
+2025-11-12 07:57:55.311 [WARN] [OrderService] Low stock alert for product 'The Road by Cormac McCarthy': 3 units remaining
+2025-11-12 19:52:33.517 [WARN] [InventoryService] Low stock alert for product 'GoPro HERO9 Black': 1 units remaining
+2025-11-12 04:56:14.323 [WARN] [InventoryService] Payment processing delay for transaction #10220: 3 seconds
+2025-11-12 07:00:41.812 [INFO] [TransactionService] Processing order #10227 - The Ordinary Caffeine Solution 5% + EGCG x1
+2025-11-12 16:21:39.689 [INFO] [InventoryService] Shipping label generated for transaction #10176 to Europe
+2025-11-12 19:04:29.202 [INFO] [InventoryService] Transaction #10210 completed successfully - Total: $129.00
+2025-11-12 06:22:59.417 [INFO] [OrderService] Transaction #10211 completed successfully - Total: $749.99
+2025-11-12 02:08:56.334 [INFO] [InventoryService] Order confirmation sent for transaction #10237
+2025-11-12 07:25:08.506 [INFO] [OrderService] Processing order #10225 - Old Navy Mid-Rise Rockstar Super Skinny Jeans x2
+2025-11-12 14:53:14.954 [INFO] [OrderService] Order confirmation sent for transaction #10229
+2025-11-12 07:27:36.280 [INFO] [OrderService] Payment authorized for transaction #10215: $58.00 via PayPal
+2025-11-12 15:32:58.963 [INFO] [OrderService] Processing order #10191 - Glossier Cloud Paint x1
+2025-11-12 04:10:22.559 [INFO] [TransactionService] Inventory check passed for 'Gap 1969 Original Fit Jeans' in category Clothing
+2025-11-12 00:38:00.602 [INFO] [OrderService] Transaction #10222 completed successfully - Total: $599.99
+2025-11-12 21:40:24.376 [ERROR] [NotificationService] Payment declined for transaction #10179: Insufficient funds
+2025-11-12 15:28:45.728 [INFO] [NotificationService] Order confirmation sent for transaction #10238
+2025-11-12 14:34:32.711 [WARN] [NotificationService] Unusual transaction pattern detected for payment method: PayPal
+2025-11-12 21:13:13.287 [INFO] [TransactionService] Shipping label generated for transaction #10206 to Europe
+2025-11-12 19:53:05.100 [INFO] [PaymentService] Shipping label generated for transaction #10211 to North America
+2025-11-12 01:13:18.058 [INFO] [PaymentService] Stock updated for product 'The Handmaid's Tale by Margaret Atwood': -3 units
+2025-11-12 20:19:02.427 [WARN] [InventoryService] Product 'Samsung Odyssey G7 Gaming Monitor' approaching reorder point in North America
+2025-11-12 04:03:44.645 [INFO] [ShippingService] Shipping label generated for transaction #10208 to North America
+2025-11-12 07:46:42.498 [INFO] [OrderService] Order confirmation sent for transaction #10205
+2025-11-12 08:56:14.119 [INFO] [OrderService] Transaction #10198 completed successfully - Total: $449.99
+2025-11-12 01:13:39.381 [INFO] [TransactionService] Payment authorized for transaction #10173: $29.50 via PayPal
+2025-11-12 22:06:29.323 [INFO] [PaymentService] Processing order #10199 - Apple TV 4K x2
+2025-11-12 14:17:59.208 [ERROR] [InventoryService] Payment gateway error for transaction #10181: Connection timeout
+2025-11-12 12:34:02.873 [INFO] [InventoryService] Inventory check passed for 'The Ordinary Caffeine Solution 5% + EGCG' in category Beauty Products
+2025-11-12 05:49:23.572 [INFO] [NotificationService] Transaction #10227 completed successfully - Total: $6.70
+2025-11-11 23:40:52.636 [INFO] [InventoryService] Order confirmation sent for transaction #10191
+2025-11-12 13:44:36.041 [INFO] [TransactionService] Shipping label generated for transaction #10169 to North America
+2025-11-12 01:32:36.692 [INFO] [TransactionService] Transaction #10233 completed successfully - Total: $24.00
+2025-11-12 12:02:29.235 [INFO] [InventoryService] Processing order #10222 - Garmin Forerunner 945 x1
+2025-11-12 01:38:48.876 [INFO] [InventoryService] Shipping label generated for transaction #10231 to Asia
+2025-11-12 08:38:02.254 [WARN] [InventoryService] Low stock alert for product 'La Mer Crème de la Mer Moisturizer': 6 units remaining
+2025-11-11 23:08:55.084 [INFO] [InventoryService] Transaction #10202 completed successfully - Total: $29.98
+2025-11-12 08:03:46.315 [INFO] [OrderService] Stock updated for product 'The Sun Also Rises by Ernest Hemingway': -3 units
+2025-11-12 14:20:26.499 [INFO] [InventoryService] Shipping label generated for transaction #10230 to Europe
+2025-11-12 14:20:49.964 [INFO] [InventoryService] Shipping label generated for transaction #10238 to North America
+2025-11-12 05:04:33.325 [INFO] [PaymentService] Stock updated for product 'The Nightingale by Kristin Hannah': -2 units
+2025-11-12 14:04:15.629 [ERROR] [NotificationService] Payment declined for transaction #10215: Insufficient funds
+2025-11-12 07:00:33.255 [INFO] [ShippingService] Order confirmation sent for transaction #10198
+2025-11-12 20:17:24.858 [INFO] [OrderService] Transaction #10207 completed successfully - Total: $196.00
+2025-11-12 10:36:19.530 [WARN] [PaymentService] Unusual transaction pattern detected for payment method: Credit Card
+2025-11-12 05:25:48.698 [INFO] [ShippingService] Stock updated for product 'The Handmaid's Tale by Margaret Atwood': -3 units
+2025-11-12 13:22:41.381 [WARN] [NotificationService] Low stock alert for product 'Nike Air Force 1 Sneakers': 3 units remaining
+2025-11-12 15:59:17.911 [WARN] [TransactionService] Product 'Bowflex SelectTech 1090 Adjustable Dumbbells' approaching reorder point in Asia
+2025-11-12 20:50:30.174 [INFO] [PaymentService] Stock updated for product 'Tom Ford Black Orchid Perfume': -1 units
+2025-11-12 10:54:51.971 [INFO] [ShippingService] Inventory check passed for 'Apple TV 4K' in category Electronics
+2025-11-12 13:11:58.377 [INFO] [PaymentService] Inventory check passed for 'The Girl with the Dragon Tattoo by Stieg Larsson' in category Books
+2025-11-12 07:23:39.035 [INFO] [ShippingService] Shipping label generated for transaction #10212 to Europe
+2025-11-12 12:03:04.203 [INFO] [TransactionService] Inventory check passed for 'Dune by Frank Herbert' in category Books
+2025-11-12 18:21:23.184 [INFO] [OrderService] Stock updated for product 'Dune by Frank Herbert': -2 units
+2025-11-11 23:18:06.308 [INFO] [ShippingService] Stock updated for product 'The Road by Cormac McCarthy': -2 units
+2025-11-12 20:56:07.396 [INFO] [TransactionService] Stock updated for product 'Tarte Shape Tape Concealer': -1 units
+2025-11-12 04:22:46.269 [INFO] [TransactionService] Processing order #10201 - Gap 1969 Original Fit Jeans x3
+2025-11-12 13:55:41.760 [INFO] [TransactionService] Payment authorized for transaction #10176: $99.98 via PayPal
+2025-11-12 09:09:10.661 [ERROR] [TransactionService] Failed to send order confirmation for transaction #10202: SMTP error
+2025-11-12 13:01:34.990 [INFO] [NotificationService] Order confirmation sent for transaction #10234
+2025-11-12 20:12:10.728 [WARN] [OrderService] Unusual transaction pattern detected for payment method: PayPal
+2025-11-12 08:52:19.959 [INFO] [ShippingService] Transaction #10226 completed successfully - Total: $80.97
+2025-11-12 11:32:00.475 [INFO] [OrderService] Inventory check passed for 'L'Occitane Shea Butter Hand Cream' in category Beauty Products
+2025-11-12 21:02:32.035 [INFO] [InventoryService] Order confirmation sent for transaction #10203
+2025-11-12 07:05:45.051 [INFO] [PaymentService] Transaction #10236 completed successfully - Total: $159.99
+2025-11-11 23:00:15.961 [INFO] [TransactionService] Payment authorized for transaction #10225: $89.98 via Debit Card
+2025-11-12 09:03:33.295 [INFO] [TransactionService] Transaction #10220 completed successfully - Total: $25.98
+2025-11-11 23:50:44.945 [INFO] [NotificationService] Inventory check passed for 'iRobot Braava Jet M6' in category Home Appliances
+2025-11-12 08:14:12.756 [INFO] [NotificationService] Order confirmation sent for transaction #10212
+2025-11-12 00:55:53.958 [INFO] [InventoryService] Processing order #10200 - Instant Pot Duo Nova x1
+2025-11-12 22:36:57.255 [INFO] [PaymentService] Transaction #10198 completed successfully - Total: $449.99
+2025-11-12 15:07:58.404 [WARN] [NotificationService] Product 'YETI Tundra 65 Cooler' approaching reorder point in Asia
+2025-11-12 04:38:25.333 [INFO] [InventoryService] Inventory check passed for 'Breville Smart Coffee Grinder Pro' in category Home Appliances
+2025-11-12 20:36:23.403 [WARN] [OrderService] High transaction volume detected in North America: 160 orders/minute
+2025-11-12 03:27:30.592 [INFO] [ShippingService] Inventory check passed for 'Logitech G Pro X Wireless Gaming Headset' in category Electronics
+2025-11-12 13:22:11.399 [WARN] [PaymentService] Low stock alert for product 'TRX All-in-One Suspension Training System': 3 units remaining
+2025-11-12 19:14:51.053 [INFO] [NotificationService] Processing order #10213 - Uniqlo Airism Seamless Boxer Briefs x4
+2025-11-12 09:56:31.782 [INFO] [NotificationService] Order confirmation sent for transaction #10227
+2025-11-12 01:12:49.252 [INFO] [OrderService] Stock updated for product 'Amazon Echo Dot (4th Gen)': -4 units
+2025-11-12 19:02:08.711 [INFO] [OrderService] Transaction #10183 completed successfully - Total: $179.97
+2025-11-12 14:15:02.763 [INFO] [InventoryService] Processing order #10205 - Samsung Galaxy Watch 4 x1
+2025-11-12 17:13:11.881 [INFO] [InventoryService] Transaction #10225 completed successfully - Total: $89.98
+2025-11-12 08:58:01.065 [ERROR] [ShippingService] Inventory check failed for product 'La Mer Crème de la Mer Moisturizer': Database timeout
+2025-11-12 09:25:36.670 [INFO] [InventoryService] Processing order #10189 - Nike Dri-FIT Training Shorts x4
+2025-11-12 15:38:37.576 [INFO] [ShippingService] Shipping label generated for transaction #10232 to North America
+2025-11-12 02:54:14.231 [INFO] [PaymentService] Shipping label generated for transaction #10184 to North America
+2025-11-12 01:03:50.127 [INFO] [NotificationService] Order confirmation sent for transaction #10196
+2025-11-12 13:55:54.078 [INFO] [OrderService] Payment authorized for transaction #10198: $449.99 via Credit Card
+2025-11-12 22:09:57.100 [INFO] [InventoryService] Processing order #10189 - Nike Dri-FIT Training Shorts x4
+2025-11-12 14:05:22.186 [ERROR] [InventoryService] Shipping address validation failed for transaction #10201: Invalid postal code
+2025-11-12 20:10:46.930 [INFO] [PaymentService] Order confirmation sent for transaction #10210
+2025-11-12 01:40:29.907 [INFO] [TransactionService] Transaction #10203 completed successfully - Total: $52.00
+2025-11-12 00:24:02.156 [WARN] [NotificationService] Product 'Tarte Shape Tape Concealer' approaching reorder point in Europe
+2025-11-12 20:21:15.113 [INFO] [PaymentService] Payment authorized for transaction #10232: $19.98 via Credit Card
+2025-11-12 22:19:40.351 [ERROR] [ShippingService] Payment declined for transaction #10209: Insufficient funds
+2025-11-12 12:21:19.072 [INFO] [ShippingService] Processing order #10194 - Breville Smart Coffee Grinder Pro x1
+2025-11-12 08:06:25.206 [ERROR] [NotificationService] Failed to send order confirmation for transaction #10209: SMTP error
+2025-11-12 05:00:44.960 [INFO] [OrderService] Stock updated for product 'The Road by Cormac McCarthy': -2 units
+2025-11-12 05:54:25.115 [INFO] [InventoryService] Shipping label generated for transaction #10218 to Europe
+2025-11-12 05:26:41.060 [INFO] [OrderService] Transaction #10229 completed successfully - Total: $169.00
+2025-11-12 12:52:00.398 [INFO] [PaymentService] Order confirmation sent for transaction #10220
+2025-11-12 17:05:54.208 [INFO] [NotificationService] Stock updated for product 'Levi's 511 Slim Fit Jeans': -3 units
+2025-11-12 15:45:05.779 [INFO] [InventoryService] Transaction #10183 completed successfully - Total: $179.97
+2025-11-12 00:46:03.330 [INFO] [OrderService] Processing order #10169 - Samsung Odyssey G7 Gaming Monitor x1
+2025-11-12 04:09:45.864 [INFO] [OrderService] Shipping label generated for transaction #10201 to Asia
+2025-11-12 09:25:09.629 [ERROR] [NotificationService] Payment gateway error for transaction #10228: Connection timeout
+2025-11-12 15:17:02.187 [WARN] [ShippingService] High transaction volume detected in Asia: 441 orders/minute
+2025-11-12 02:30:49.548 [INFO] [NotificationService] Processing order #10197 - Tom Ford Black Orchid Perfume x1
+2025-11-12 01:07:46.389 [INFO] [NotificationService] Inventory check passed for 'Amazon Fire TV Stick 4K' in category Electronics
+2025-11-12 11:23:05.720 [INFO] [OrderService] Order confirmation sent for transaction #10230
+2025-11-12 08:56:50.675 [INFO] [InventoryService] Transaction #10200 completed successfully - Total: $99.95
+2025-11-12 09:06:22.441 [INFO] [PaymentService] Inventory check passed for 'Polar Vantage V2' in category Sports
+2025-11-12 02:46:17.464 [WARN] [OrderService] High transaction volume detected in Europe: 153 orders/minute
+2025-11-12 04:10:18.350 [INFO] [ShippingService] Payment authorized for transaction #10210: $129.00 via Credit Card
+2025-11-12 11:27:03.502 [INFO] [ShippingService] Transaction #10236 completed successfully - Total: $159.99
+2025-11-12 16:43:13.822 [WARN] [TransactionService] Unusual transaction pattern detected for payment method: Debit Card
+2025-11-12 08:14:07.237 [INFO] [ShippingService] Inventory check passed for 'The Catcher in the Rye by J.D. Salinger' in category Books
+2025-11-12 15:21:46.340 [INFO] [OrderService] Order confirmation sent for transaction #10200
+2025-11-12 06:01:37.441 [INFO] [InventoryService] Processing order #10218 - iRobot Braava Jet M6 x1
+2025-11-12 21:22:05.282 [WARN] [InventoryService] High transaction volume detected in Europe: 377 orders/minute
+2025-11-12 15:46:13.670 [INFO] [TransactionService] Payment authorized for transaction #10196: $23.98 via Credit Card
+2025-11-11 23:41:46.764 [ERROR] [OrderService] Payment gateway error for transaction #10176: Connection timeout
+2025-11-12 16:57:03.838 [WARN] [InventoryService] Low stock alert for product 'Crock-Pot 6-Quart Slow Cooker': 2 units remaining
+2025-11-12 16:17:35.314 [INFO] [InventoryService] Transaction #10238 completed successfully - Total: $32.97
+2025-11-12 07:34:10.545 [INFO] [InventoryService] Shipping label generated for transaction #10193 to North America
+2025-11-12 19:34:42.710 [INFO] [NotificationService] Shipping label generated for transaction #10169 to North America
+2025-11-12 13:55:12.649 [WARN] [TransactionService] Unusual transaction pattern detected for payment method: Credit Card
+2025-11-12 09:51:26.087 [INFO] [TransactionService] Processing order #10175 - Amazon Fire TV Stick 4K x3
+2025-11-12 16:03:55.764 [WARN] [InventoryService] Payment processing delay for transaction #10240: 4 seconds

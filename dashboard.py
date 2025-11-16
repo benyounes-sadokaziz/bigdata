@@ -270,7 +270,7 @@ def get_mysql_data():
     """Fetch data from MySQL"""
     try:
         # Use SQLAlchemy engine for pandas compatibility
-        engine = create_engine('mysql+mysqlconnector://root:rootpassword@localhost:3306/ecommerce')
+        engine = create_engine('mysql+mysqlconnector://root:rootpassword@localhost:3306/testdb')
         query = "SELECT * FROM transactions"
         df = pd.read_sql(query, engine)
         engine.dispose()
@@ -278,15 +278,21 @@ def get_mysql_data():
         # Convert data types for proper handling
         if not df.empty:
             df['transaction_id'] = pd.to_numeric(df['transaction_id'], errors='coerce')
-            df['quantity'] = pd.to_numeric(df['quantity'], errors='coerce')
+            if 'units_sold' in df.columns:
+                df['quantity'] = df['units_sold']
+            if 'total_revenue' in df.columns:
+                df['total_amount'] = df['total_revenue']
+            if 'date' in df.columns:
+                df['timestamp'] = pd.to_datetime(df['date'], errors='coerce')
+            
+            df['quantity'] = pd.to_numeric(df.get('quantity', df.get('units_sold', 0)), errors='coerce')
             df['unit_price'] = pd.to_numeric(df['unit_price'], errors='coerce')
-            df['total_amount'] = pd.to_numeric(df['total_amount'], errors='coerce')
-            df['timestamp'] = pd.to_datetime(df['timestamp'], errors='coerce')
+            df['total_amount'] = pd.to_numeric(df.get('total_amount', df.get('total_revenue', 0)), errors='coerce')
             
             # Add aliases for compatibility
-            if 'category' in df.columns:
+            if 'product_category' not in df.columns and 'category' in df.columns:
                 df['product_category'] = df['category']
-            if 'total_amount' in df.columns:
+            if 'total_revenue' not in df.columns and 'total_amount' in df.columns:
                 df['total_revenue'] = df['total_amount']
             if 'timestamp' in df.columns:
                 df['date'] = pd.to_datetime(df['timestamp']).dt.date

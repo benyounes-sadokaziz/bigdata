@@ -49,31 +49,42 @@ class RealtimeStreamer:
                 host='localhost',
                 user='root',
                 password='rootpassword',
-                database='ecommerce'
+                database='testdb'
             )
             cursor = conn.cursor()
             cursor.execute("SELECT MAX(transaction_id) FROM transactions")
             result = cursor.fetchone()
             conn.close()
-            return result[0] if result[0] else 1000
+            return int(result[0]) if result[0] is not None else 1000
         except Exception as e:
             logger.warning(f"Could not get last transaction ID: {e}")
             return 1000
     
     def connect_kafka(self):
-        """Initialize Kafka producer"""
-        try:
-            self.kafka_producer = KafkaProducer(
-                bootstrap_servers=['localhost:9092'],
-                value_serializer=lambda v: json.dumps(v).encode('utf-8'),
-                acks='all',
-                retries=3
-            )
-            logger.info("✅ Connected to Kafka")
-            return True
-        except Exception as e:
-            logger.error(f"❌ Failed to connect to Kafka: {e}")
-            return False
+        """Initialize Kafka producer with retry logic"""
+        max_retries = 5
+        retry_delay = 2
+        
+        for attempt in range(max_retries):
+            try:
+                logger.info(f"Connecting to Kafka (attempt {attempt + 1}/{max_retries})...")
+                self.kafka_producer = KafkaProducer(
+                    bootstrap_servers=['localhost:9092'],
+                    value_serializer=lambda v: json.dumps(v).encode('utf-8'),
+                    acks='all',
+                    retries=3,
+                    request_timeout_ms=30000,
+                    api_version_auto_timeout_ms=10000
+                )
+                logger.info("✅ Connected to Kafka")
+                return True
+            except Exception as e:
+                if attempt < max_retries - 1:
+                    logger.warning(f"Kafka connection attempt {attempt + 1} failed. Retrying in {retry_delay}s...")
+                    time.sleep(retry_delay)
+                else:
+                    logger.error(f"❌ Failed to connect to Kafka after {max_retries} attempts: {e}")
+                    return False
     
     def connect_mysql(self):
         """Initialize MySQL connection"""
@@ -82,7 +93,7 @@ class RealtimeStreamer:
                 host='localhost',
                 user='root',
                 password='rootpassword',
-                database='ecommerce'
+                database='testdb'
             )
             logger.info("✅ Connected to MySQL")
             return True
@@ -129,20 +140,20 @@ class RealtimeStreamer:
             cursor = self.mysql_conn.cursor()
             sql = """
                 INSERT INTO transactions 
-                (transaction_id, product_name, category, quantity, unit_price, 
-                 total_amount, payment_method, region, timestamp)
+                (transaction_id, product_name, product_category, units_sold, unit_price, 
+                 total_revenue, payment_method, region, date)
                 VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s)
             """
             values = (
                 transaction['transaction_id'],
                 transaction['product_name'],
-                transaction['category'],
-                transaction['quantity'],
+                transaction['category'],  # Maps to product_category
+                transaction['quantity'],   # Maps to units_sold
                 transaction['unit_price'],
-                transaction['total_amount'],
+                transaction['total_amount'], # Maps to total_revenue
                 transaction['payment_method'],
                 transaction['region'],
-                transaction['timestamp']
+                transaction['timestamp'].split()[0]  # Extract date from timestamp
             )
             cursor.execute(sql, values)
             self.mysql_conn.commit()
@@ -231,7 +242,7 @@ def main():
     print()
     print("This script continuously generates transactions and sends them to:")
     print("  • Kafka topic: ecommerce-transactions")
-    print("  • MySQL database: ecommerce.transactions")
+    print("  • MySQL database: testdb.transactions")
     print()
     print("Press Ctrl+C to stop streaming")
     print("=" * 70)
